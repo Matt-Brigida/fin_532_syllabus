@@ -1,0 +1,268 @@
+---
+title: 
+date: "January 15, 2018"
+output: 
+  html_document:
+    toc: true
+    #toc_depth: 2
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+# Syllabus (FIN 532) Investment Management
+<br>
+<br>
+<center>
+<b>SUNY POLYTECHNIC INSTITUTE</b>
+
+<b>SCHOOL OF BUSINESS ADMINISTRATION</b>
+</center>
+<br>
+<br>
+**Instructor**: Matthew Brigida, Ph.D.
+
+**Office**: TBD
+
+**Email**:  matthew.brigida@sunyit.edu
+
+**Course Start Date**: 
+
+**Course End Date**: 
+
+**Class Location**:  Online (Blackboard)
+
+**Text**: *Investments* by Bodie, Kane, and Marcus, 8th edition (or later), ISBN: 0077261453.
+
+**Important Dates**
+
+**Midterm Exam:**  
+
+**Final Exam:**  
+
+
+## Description
+
+An introductory survey of the fundamental principles of investment management.
+The learning outcomes for this course are summarized below:
+
+#.  Understanding the structure of various capital markets, as well as how and why organizations
+(ranging from individuals to multinational firms) participate in these markets. Particular importance will
+be assigned to innovations in market structures (dark pools, ECNs) and their implications for market
+participants. The student will be able to set up buy and sell orders for various securities, as well as
+understand the use of leverage inherent in margin accounts and some derivative securities.
+
+#.  To extend previous study on equity and fixed income security valuation. Further, we will introduce
+and value hybrid securities which have characteristics of both debt and equity (particularly convertible
+bonds). Valuing the warrant in a convertible bond will also serve as a prelude to derivative securities.  
+
+#.  Quantify the interest rate risk in fixed income securities using duration and convexity. Moreover, the
+student will be able to discuss the allocation of interest rate risk between lender and borrower in fixed
+rate as compared to adjustable rate securities.
+
+#.  Assess reinvestment risk in fixed income securities and the benefits inherent in the option to prepay. 
+
+#.  This course will also introduce exchange­listed derivative securities (futures and options), along with
+basic hedging and speculation strategies using these securities. Students will also learn about the
+markets wherein derivatives are traded, and how laws governing these markets may differ from the laws
+governing the stock markets. A basic introduction to valuing futures on storable commodities,
+currencies, and interest rates will be afforded. We will then briefly discuss futures on non­storable commodities (particularly electricity). Lastly, using Excel students will apply the Black­Scholes (1973)
+option pricing model to valuing options on non­dividend paying stock. The assumptions of
+Black­Scholes (1973) will be discusses along with a non­rigorous introduction to risk neutral pricing
+(intended to motivate further study).
+
+#.  Students will be able to measure the risk and return of individual securities as well as of a portfolio of
+multiple risky securities. The effect of forming a portfolio on risk and expected return will be quantified,
+as well as the resulting implications for forming an efficient portfolio. We will derive the Capital Asset
+Pricing Model (CAPM) and thereby calculate the expected return for individual securities. A short
+discussion of the assumptions of the CAPM and the alternative 'Arbitrage Pricing Theory' (APT) will
+conclude.
+
+## Academic Honesty Policy
+
+Academic dishonesty will not be tolerated in this class. Cheating
+on quizzes, examinations, and other forms of dishonesty (e.g., plagiarism, collusion, and
+falsification of data) will be dealt with in a serious and formal manner. The penalty for academic
+dishonesty in this class will be course failure. That is, any student who is found to be cheating
+or engaged in other academically dishonest behavior will be failed for this course for this
+semester. Course withdrawals to avoid such a failure will not be permitted. As a student, you
+have a responsibility to become familiar with the Academic Honesty Policy found in the Student
+Rights, Regulations, and Procedures Handbook.
+
+## Online Office Hours
+
+I will be logged on the course D2L site on Wednesday from 2:00--4:00 pm. I will also periodically access the Discussion Room at other times during the week from Monday at 7am to Friday at 5pm.
+
+Students do not need to access the course simultaneously, and therefore have a measure of flexibility regarding when they access the course.  However, students should access the course regularly to keep up with assignments, and to maintain a presence in the Discussion Room.  Students should also often check their Clarion University email account.
+
+## Exams
+
+There will be two exams (a midterm and a final). The exams will mainly be comprised of short-answer questions, and computations.  More involved questions will be worth more points.  Many of the exam questions will be derived from the assigned end-of-chapter questions, so you can prepare for the exam by completing all of the end-of-chapter questions.  Specifically, the discussion (*Concept Questions*) are similar to the short answer questions, and the *Optimal Homework* is similar to the computations. 
+
+While you are allowed to use your text during the exam, you should not rely on it.  Students perform considerably better if they know the material beforehand, and only need to consult the text for a few questions.
+
+For each exam you will need:
+
+#.  Access to software which can display pdf files (I will send the exam to you as a pdf).
+
+#.  A wordprocessor which can write pdf files (you will send your short answer questions back to me as a pdf).
+
+#. Spreadsheet software to answer the computation questions (you can send me the spreadsheet as .xls or .xlsx).
+
+Normally no make-up exams will be given.  Failure to take an exam will result in a grade of zero for the missed exam.  Make-up exams will only be allowed for *extraordinary* and *verifiable* reasons.
+
+**Mid-term Exam**
+
+I will post the exam as a pdf file to D2L on the Wednesday before the exam due date. You will have until the exam due date/time to submit the mid-term exam.  You will submit your exam using the Dropbox in D2L.  
+
+**Final Exam**
+
+The final exam is concentrated on the topics learned after the mid-term exam, so the exam is not comprehensive *per se*.  However, the concepts learned after the mid-term rely heavily those tested in the mid-term, so a poor understanding of the material on the mid-term will lead to a poor performance on the final exam. 
+
+Exactly like the mid-term, I will post the exam as a pdf file to D2L on the Wednesday before the exam due date. You should upload your completed exam to the D2L Dropbox by the due date/time.
+
+**Exam Rules**
+
+I have provided the exam dates so that you can make sure that you will have time to take the exams on these dates. To be clear, this course needs to be prioritized ahead of work or other obligations on these two dates. Missing, or not completing an exam on time, means that you will receive a 0 for the exam.  Note, I will not give any `Incompletes' in this course.  If you feel you may not be able to take an exam on the specific date, you should immediately tell the instructor (within the first few days of the course), or you should not take this course. 
+
+You are not to discuss the exam with other students.  Both receiving help from another student, or helping another student on an exam, are considered serious academic irregularities the result of which can range from receiving an `F' in the course to dismissal from the university.
+
+**You must complete and submit your computation questions in a spreadsheet.  If you submiy your computation answers in Word, I will reduce your score.  You should also not treat your spreadsheet as a Word or text file.  That is answers should be written as formulas, and not as text strings.**
+
+**If your spreadsheet is disorganized you will lose points. The computations and answers should be easily found and understood by anyone opening your spreadsheet. See the 'Note on Spreadsheet Design' at the end of this syllabus.**
+<!-- <center> -->
+<!-- % **PROJECT** -->
+<!-- </center> -->
+
+## Projects
+
+<!-- % In groups of no more than 4, you will value a tolling agreement on an electricity generating facility, or transmission line.  You will deliver your valuation to me in an well laid out spreadsheet.  A more detailed description of the project will be provided in the first few weeks of class. -->
+
+<!-- % If you have questions on your project you are encouraged to post your spreadsheet so I and other students can help.  You learn a great deal by helping others, and by seeing how others approach the problem.  Also don't worry too much about another group copying you.  It is easy for me to tell when one spreadsheet has been copied from another.  Moreover, since you posted yours, it would be clear that you were the one copied off of, and the other group would receive the reduction in points.   -->
+<!-- <center> -->
+<!-- **PARTICIPATION** -->
+<!-- </center> -->
+<!-- There are two ways to satisfy the 40 participation points.  You can: -->
+## PARTICIPATION
+<!-- #. Take part in the weekly online discussion boards. -->
+<!-- #. Submit 70 short questions and answers on Corporate Finance to GitHub. -->
+
+<!-- **Important:  You can only complete (1) or (2).  You cannot mix the two.  For instance, you cannot miss a week of the discussion board and submit a few short questions and answers instead.  You either submit 70 short answers or complete every discussion.  As an example, if you submit 60 of 70 short questions and answers, and complete 2 of the 7 discussions, you will receive $\frac{60}{70} = 85.71\%$ as your participation score.** -->
+
+  <!-- The main difference between the two options is that for the weekly discussion you must make your contributions each week, whereas you can complete the short questions and answers anytime prior to the due date.  This latter option adds flexibility. -->
+
+<!-- **1.  DISCUSSION:**  -->
+
+For each two-week period I will post a set of `Concept Questions' from the text.  You must choose 1 of the questions from the set and post your answers to the discussion board.  Try and choose a question that has not yet been answered, but if all the questions have been answered then try and add unique information in your answer.
+
+The subject line of your discussion post should be the in the format [chapter].[question number].  For example, if you are answering question 5 from chapter 3, your subject line should be '5.3'.  Also, be sure to have one post for each answer. Don't answer multiple questions in one post.
+
+In addition to your answer, you must post 1 response to other students' answers.  So each week you will post 1 answer, and 1 response to other answers, for a total of 2 posts to the discussion board each period.
+
+To receive credit your posts must be constructive, preferably somewhat insightful, and show you have done the reading.  If your post does not meet the preceding criteria, please don't bother posting it because it will just clutter the discussion board.  A particular period's discussion will conclude Sunday at 9pm.  Don't post to the period's discussion after that date/time.
+
+<!-- **2.  Q/A:** You should post finance related short questions and answers similar to what you find at https://github.com/finance-AI/data/blob/master/studentQA/studentQA_fall_2016.txt.  These are submission from an earlier class.  You should submit your Q/A in the same format. -->
+
+<!--   This assignment will help you learn our Corporate Finance material by writing concise answers to finance questions.  In addition, your submitted Q/A will be used to train a finance Artificial Intelligence.  I will feed the Q/A into a deep neural network to train a chatbot that can answer finance questions---think Siri for finance.    -->
+
+<!-- I have created a file for Q/A for this course https://github.com/finance-AI/data/blob/master/studentQA/studentQA_570_summer_2017.txt.  Submit your Q/A there.  Adding to the file is easy---[see this video for a short tutorial](https://www.youtube.com/watch?v=iVC9UKkaiko), and [This is an example of a link to a commit.](https://github.com/FinancialMarkets/5MinuteFinance/commit/8f12f63b546a80fdb04e787514d967f1a1c0725f) -->
+
+<!-- If your GitHub username is similar to your real name, then you don't have to tell me you have submitted the Q/A (I'll see it).  If your username is different, then send me an email from your clarion email address with the Subject "FIN 570 Q/A" letting me know your real name and GitHub username.  Note, GitHub shows how many lines you have added, so there is no need to number your questions.  Also, don't label the questions and answers.  -->
+
+
+## Homework/Pop Quizzes/Other Participation
+
+
+Throughout the semester I **may** assign brief homeworks, or unannounced quizzes.  The nature of these is usually to highlight an important point, or give the class extra practice on certain material.  You start with 10 final grade points, and your points are reduced the more you get incorrect.  However, for example, if I only assign two points of homework and no quizzes or other assignments, then you receive 8 points no matter what, and the remaining 2 points depend on the correctness of you answers.
+
+## Optional Homework
+
+I will post a set of optional homework questions.  These are end-of-chapter problems to be done in a spreadsheet.  The questions are very much like the spreadsheet problems which will be on the exam.  Also, on the exams you may use the spreadsheets that *you* created to complete the optional homework questions.  Do not copy from another student's spreadsheet however.
+
+## Course Communication
+
+All communication will be through Blackboard and email. If you have question you are strongly encouraged to post it to a discussion forum instead of emailing me.  This way, other students can get the benefit of the question and answer.  It also saves me from answering the same question many times via email, and frees me up to answer more questions and generally provide more effective instruction for you.
+
+
+## Grading
+
+<center>
+
+
+```{r grading, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+tabl <- "
+| Item | Points |
+| ---- | ------ |
+| Midterm Exam |  15 |
+| Final Exam |  15 | 
+| Participation (D2L Discussion) |    30 |
+| Projects | 30  | 
+| Homework/Pop Quizzes/Other Participation | 10 |
+| Total Points | 100 |
+"
+cat(tabl)
+```
+  
+</center>
+
+<center>
+**Final grades will be assigned according to the following scale**:
+</center>
+
+- 90 - 100 A
+- 80 - 89.9 B
+- 70 - 79.9 C
+- 60 - 69.9 D
+- $<$ 60 F
+
+## General Notes
+
+- All times referred to in this course are Eastern Standard---unless otherwise indicated.
+- There will be no make up exams or extra points assignments.
+- Cheating will result in prosecution to the fullest extent possible under university rules.
+- You are responsible for material covered in the online discussion, as well as text material.
+-  **Internet Access:** This course requires that you have regular access to the internet to submit work.  You should not take this course if you plan on being in an area with insufficient internet access. "My internet was down for a week" is not an acceptable reason to hand in late work.
+-  **Adding or Dropping the Course:** To add or drop the course the student should consult the university guidelines and withdrawal dates. The course instructor is not involved in a student's adding or withdrawing from the course.
+- **Software:** You will need word processing and spreadsheet software to take
+this course. Common examples of such software are Microsoft Word and
+Excel. However, there is no need to buy this software if you don't already
+have it. There are many free (open-source) alternatives which are just as
+good (and which allow you to save/read files as .doc(x), .pdf, and .xls(x)).
+Some widely used free office suites are LibreOffice (http://www.libreoffice.org)
+and OpenOffice (http://www.openoffice.org). Feel free to download and use
+these. *In this course all word processed submissions should be in .pdf, and
+all spreadsheets should be submitted as .xlsx.*
+
+
+## Tentative Outline
+
+
+- 1/15: Chapter 1
+- 1/22:  Chapter 2 \& 3
+- 1/29: Chapter 3 \& 4
+- 2/5: Chapter 14
+- 2/12: (exam review) 
+- 2/19: {\bf 10/03 (Exam 1)} & Chapter 15
+- 2/26: Chapter 16
+- 3/12: Chapter 20
+- 3/19: Chapter 21
+- 3/26: (exam review) 
+- 4/2: {\bf 4/2 (Exam 2)} & Chapter 21
+- 4/9: Chapter 22
+- 4/16: Chapter 23
+- 4/23: Trading, exam review, {\bf and the last day to present your projects.}
+- 4/30: Finals Week
+
+
+## Some Notes on Spreadsheet Design
+
+You should construct your spreadsheet as if you were an analyst at a company, and you were going to submit the spreadsheet to upper management.  Therefore, getting the correct answer can be considered the minimal amount of work.  The spreadsheet should be easily readable and organized.  There are a couple of reasons why this is important: (1) management often will check some numbers (or maybe change a few inputs if they have more up to date information) and it will reflect very poorly on you if they have to search around through a muddled and ill-conceived spreadsheet; and (2) anyone should be able to pick up your spreadsheet and complete it if you are not there (vacation, sick, or hopefully promoted).  Following are a couple tips on spreadsheet design, though it is far from exhaustive.
+
+- Hard-code as little as possible.  You want a few cells for your inputs, or a place where you put your data, and then every other cell is linked and feeds off of these input cells. This way, to update your spreadsheet you simply change the inputs or drop in new data.  
+- Take the time to label cells, and put in appropriate comments if necessary  - though comments should not be used excessively. Also, it is common to change the cell color depending on whether it is hard-coded (an input) or a formula.  This way you (or anyone else) can immediately look at a cell and tell whether it is one in which you can type (an input).  Don't forget to include a key.
+- It is often better to add tabs to a spreadsheet than continue calculations on one tab.  You can easily page through spreadsheet tabs with `Ctrl+Shift' and `Page-up' or `Page-down'.
+- Pivot tables.  While we probably won't need them in this course, you should nonetheless get to know them.  Pivot tables are incredibly useful for summarizing data, and it is very possible you will be asked in an interview whether you are familiar with them.  Similarly, get to know VLOOKUP.
+-  If you are inputting a long formula, then break the calculation into multiple cells.  This makes it much easier to tell where a mistake was made - and everyone always spends a fair amount of time looking for errors. 
+- Excel has many built in formulas which can be useful, however it is important that you understand what the formula is doing to use them.  Blindly applying a formula can lead to trouble.  For example, if you use the IRR() function on cash flows with multiple roots, the formula will return the first root it finds without signaling to you that there are other roots.  Also, there are Excel formulas that are flat out incorrect - in particular the NPV() function.  So, use a function if it saves time, but first be sure you know what the function is doing and verify it works.  That said, in my experience it is better (and faster) to input your own formula instead of using Excel's.  You often have to break the calculation into a couple of steps, but this can be done quickly, and the result is a spreadsheet that you know works and is easily auditable. 
+
+## Project Materials
