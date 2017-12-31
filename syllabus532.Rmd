@@ -245,7 +245,7 @@ all spreadsheets should be submitted as .xlsx.*
 - 2/5: Chapter 14
 - 2/12: (exam review) 
 - 2/19: {\bf 10/03 (Exam 1)} & Chapter 15
-- 2/26: Chapter 16
+- 2/26: Chapter 16 & [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
 - 3/12: Chapter 20
 - 3/19: Chapter 21
 - 3/26: (exam review) 
