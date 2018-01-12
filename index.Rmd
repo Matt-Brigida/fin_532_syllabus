@@ -155,13 +155,17 @@ If you have questions on your project you are encouraged to post your spreadshee
 
 <!-- **1.  DISCUSSION:**  -->
 
-For each two-week period I will post a set of `Concept Questions' from the text.  You must choose 1 of the questions from the set and post your answers to the discussion board.  Try and choose a question that has not yet been answered, but if all the questions have been answered then try and add unique information in your answer.
+For each two-week period I will post a set of *End-of-Chapter Questions* from the text.  You must choose 1 of the questions from the set and post your answer to the discussion board.  Try and choose a question that has not yet been answered, but if all the questions have been answered then try and add unique information in your answer.
 
 The subject line of your discussion post should be the in the format [chapter].[question number].  For example, if you are answering question 5 from chapter 3, your subject line should be '5.3'.  Also, be sure to have one post for each answer. Don't answer multiple questions in one post.
 
-In addition to your answer, you must post 1 response to other students' answers.  So each week you will post 1 answer, and 1 response to other answers, for a total of 2 posts to the discussion board each period.
+If the questions requires computation, then use Excel (or other spreadsheet) and post your spreadsheet as your answer.  
 
-To receive credit your posts must be constructive, preferably somewhat insightful, and show you have done the reading.  If your post does not meet the preceding criteria, please don't bother posting it because it will just clutter the discussion board.  A particular period's discussion will conclude Sunday at 9pm.  Don't post to the period's discussion after that date/time.
+<!-- In addition to your answer, you must post 1 response to other students' answers.  So each week you will post 1 answer, and 1 response to other answers, for a total of 2 posts to the discussion board each period. -->
+
+<!-- To receive credit your posts must be constructive, preferably somewhat insightful, and show you have done the reading.  If your post does not meet the preceding criteria, please don't bother posting it because it will just clutter the discussion board.   -->
+
+A particular period's discussion will conclude Sunday at 9pm.
 
 <!-- **2.  Q/A:** You should post finance related short questions and answers similar to what you find at https://github.com/finance-AI/data/blob/master/studentQA/studentQA_fall_2016.txt.  These are submission from an earlier class.  You should submit your Q/A in the same format. -->
 
