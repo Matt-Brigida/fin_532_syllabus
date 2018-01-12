@@ -117,9 +117,13 @@ Rights, Regulations, and Procedures Handbook.
 
 ## Online Office Hours
 
-I will be logged on the course D2L site on Wednesday from 2:00--4:00 pm. I will also periodically access the Discussion Room at other times during the week from Monday at 7am to Friday at 5pm.
+I will be logged on the course throughout the week to answer questions and review the discussions.  If a few students have questions on the material, and there is a good time to meet, I'll log into BB Collaborate and record the answers.
 
-Students do not need to access the course simultaneously, and therefore have a measure of flexibility regarding when they access the course.  However, students should access the course regularly to keep up with assignments, and to maintain a presence in the Discussion Room.  Students should also often check their Clarion University email account.
+Students do not need to access the course simultaneously, and therefore have a measure of flexibility regarding when they access the course.  However, students should access the course regularly to keep up with assignments, and to maintain a presence in the Discussion Room.  Students should also often check their SUNY Poly email account.
+
+## Lectures
+
+In addition to the lectures I posted to YouTube, I will also record lectures via BB Collaborate.  I'll try and let you know when I am recording each lecture, so you can log in an interact.  However all that is required is that you watch the lecture at some point---meaning you are free to just watch the recording.
 
 ## Exams
 
@@ -174,7 +178,7 @@ If you have questions on your project you are encouraged to post your spreadshee
 
 
 <!-- There are two ways to satisfy the 40 participation points.  You can: -->
-## PARTICIPATION
+## Participation
 <!-- #. Take part in the weekly online discussion boards. -->
 <!-- #. Submit 70 short questions and answers on Corporate Finance to GitHub. -->
 
