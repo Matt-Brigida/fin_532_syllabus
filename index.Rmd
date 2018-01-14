@@ -27,17 +27,6 @@ opts_chunk$set(echo=FALSE,
                warning=FALSE)
 opts_knit$set(width=75)
 ```
-<!-- --- -->
-<!-- title:  -->
-<!-- date: "January 15, 2018" -->
-<!-- output:  -->
-<!--   html_document: -->
-<!--     toc: true -->
-<!--     #toc_depth: 2 -->
-<!--     toc_float: -->
-<!--       collapsed: false -->
-<!--       smooth_scroll: false -->
-<!-- --- -->
 
 # Syllabus (FIN 532) Investment Management
 <br>
@@ -59,18 +48,19 @@ opts_knit$set(width=75)
 
 **Text**: *Investments* by Bodie, Kane, and Marcus, 8th edition (or later), ISBN: 0077261453.
 
+**Supplementary Material**: [5MinuteFinance.org](https://www.5minutefinance.org/)
+
 ## Course Structure and Interaction
 
 -  Text Readings and Exercises
 
--  Short videos manyof which are/will be posted at the following links: [Investments](https://www.youtube.com/playlist?list=PLRK1VeglPb4NO-D0HOn0QE9lQlBNR1vHK) and [Portfolio Theory](https://www.youtube.com/playlist?list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6).
+-  Short videos many of which are/will be posted at the following links: [Investments](https://www.youtube.com/playlist?list=PLRK1VeglPb4NO-D0HOn0QE9lQlBNR1vHK) and [Portfolio Theory](https://www.youtube.com/playlist?list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6).
 
 -  Via BlackBaord Collaborate.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.
 
 ## Description
 
-An introductory survey of the fundamental principles of investment management.
-The learning outcomes for this course are summarized below:
+An introductory survey of the fundamental principles of investment management. The learning outcomes for this course are summarized below:
 
 #.  Understanding the structure of various capital markets, as well as how and why organizations
 (ranging from individuals to multinational firms) participate in these markets. Particular importance will
@@ -92,10 +82,7 @@ rate as compared to adjustable rate securities.
 basic hedging and speculation strategies using these securities. Students will also learn about the
 markets wherein derivatives are traded, and how laws governing these markets may differ from the laws
 governing the stock markets. A basic introduction to valuing futures on storable commodities,
-currencies, and interest rates will be afforded. We will then briefly discuss futures on non­storable commodities (particularly electricity). Lastly, using Excel students will apply the Black­Scholes (1973)
-option pricing model to valuing options on non­dividend paying stock. The assumptions of
-Black­Scholes (1973) will be discusses along with a non­rigorous introduction to risk neutral pricing
-(intended to motivate further study).
+currencies, and interest rates will be afforded. We will then briefly discuss futures on non­storable commodities (particularly electricity). Lastly, using Excel students will apply the Black­Scholes (1973) option pricing model to valuing options on non­dividend paying stock. The assumptions of Black­Scholes (1973) will be discusses along with a non­rigorous introduction to risk neutral pricing (intended to motivate further study).
 
 #.  Students will be able to measure the risk and return of individual securities as well as of a portfolio of
 multiple risky securities. The effect of forming a portfolio on risk and expected return will be quantified,
@@ -153,16 +140,23 @@ Exactly like the mid-term, I will post the exam as a pdf file to Blackboard by t
 
 **Exam Rules**
 
-<!-- I have provided the exam dates so that you can make sure that you will have time to take the exams on these dates. To be clear, this course needs to be prioritized ahead of work or other obligations on these two dates. Missing, or not completing an exam on time, means that you will receive a 0 for the exam.  Note, I will not give any `Incompletes' in this course.  If you feel you may not be able to take an exam on the specific date, you should immediately tell the instructor (within the first few days of the course), or you should not take this course.  -->
-
 You are not to discuss the exam with other students.  Both receiving help from another student, or helping another student on an exam, are considered serious academic irregularities the result of which can range from receiving an `F' in the course to dismissal from the university.
 
 **You must complete and submit your computation questions in a spreadsheet.  If you submiy your computation answers in Word, I will reduce your score.  You should also not treat your spreadsheet as a Word or text file.  That is answers should be written as formulas, and not as text strings.**
 
 **If your spreadsheet is disorganized you will lose points. The computations and answers should be easily found and understood by anyone opening your spreadsheet. See the 'Note on Spreadsheet Design' at the end of this syllabus.**
-<!-- <center> -->
-<!-- % **PROJECT** -->
-<!-- </center> -->
+
+## Brokerage Accounts
+
+We will use paper trading accounts provided by Interactive Brokers. These
+trading accounts are the exact same as the actual brokerage accounts---except the money isn’t real.
+You will have access to (and real data from) stock, bond, commodity, and foreign exchange markets.
+While the data alone is worth a fair amount of money, Interactive Brokers is offering the accounts to us
+for free. Keep this in mind while following the directions to set up your account customer service will
+be nonexistent. **If you lose your password, or forget your username, etc, you will not have an
+account for the semester.** In this case you will have to trade in another student’s account, or mine.
+Please pay attention while setting up your account, and write everything down.
+
 
 ## Projects
 
@@ -176,10 +170,7 @@ Throughout the semester we'll work on a series of projects that will help us und
 
 -  Each project will require computations either in a spreadsheet, or programming language.  Use whichever you wish, though if you write it in a programming language (such as R or Python) you'll have to share the code so I can reproduce your results.
 
-<!-- % In groups of no more than 4, you will value a tolling agreement on an electricity generating facility, or transmission line.  You will deliver your valuation to me in an well laid out spreadsheet.  A more detailed description of the project will be provided in the first few weeks of class. -->
-
 If you have questions on a project you are encouraged to post your spreadsheet/code to the relevant discussion board so I and other students can help.  You learn a great deal by helping others, and by seeing how others approach the problem.  Also don't worry too much about others copying you.  It is fairly easy to tell when one spreadsheet has been copied from another.  Moreover, since you posted yours, it would be clear that you were the one copied off of.
-
 
 <!-- There are two ways to satisfy the 40 participation points.  You can: -->
 ## Participation
@@ -212,14 +203,9 @@ A particular period's discussion will conclude Sunday at 9pm.
 
 <!-- If your GitHub username is similar to your real name, then you don't have to tell me you have submitted the Q/A (I'll see it).  If your username is different, then send me an email from your clarion email address with the Subject "FIN 570 Q/A" letting me know your real name and GitHub username.  Note, GitHub shows how many lines you have added, so there is no need to number your questions.  Also, don't label the questions and answers.  -->
 
+## Trading/Other Assignments
 
-## Homework/Pop Quizzes/Other Participation
-
-Throughout the semester I **may** assign brief homeworks, or unannounced quizzes.  The nature of these is usually to highlight an important point, or give the class extra practice on certain material.  You start with 10 final grade points, and your points are reduced the more you get incorrect.  However, for example, if I only assign two points of homework and no quizzes or other assignments, then you receive 8 points no matter what, and the remaining 2 points depend on the correctness of you answers.
-
-<!-- ## Optional Homework -->
-
-<!-- I will post a set of optional homework questions.  These are end-of-chapter problems to be done in a spreadsheet.  The questions are very much like the spreadsheet problems which will be on the exam.  Also, on the exams you may use the spreadsheets that *you* created to complete the optional homework questions.  Do not copy from another student's spreadsheet however. -->
+I'll assign several homeworks throughout the semester that involve either trading in your brokerage accounts, or downloading data in R and performing some calculation/analyses. If I give pop quizzes, these grades will be included here. 
 
 ## Course Communication
 
@@ -235,10 +221,10 @@ tabl <- "
 | Item | Points |
 | ---- | ------ |
 | Midterm Exam |  15 |
-| Final Exam |  15 | 
-| Participation (Blackboard Discussion) |    30 |
-| Projects | 30  | 
-| Homework/Pop Quizzes/Other Participation | 10 |
+| Final Exam |  15 |
+| Participation (Blackboard Discussion) |    25 |
+| Projects | 25  |
+| Trading/Other Assignments | 20 |
 | Total Points | 100 |
 "
 cat(tabl)
@@ -293,11 +279,10 @@ all spreadsheets should be submitted as .xlsx.*
 - 4/2: **Exam 2** & Chapter 21
 - 4/9: Chapter 22
 - 4/16: Chapter 23
-- 4/23: Trading, exam review, {\bf and the last day to present your projects.}
+- 4/23: Trading, exam review, **and the last day to submit any projects.**
 - 4/30: Finals Week
 
 > Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24.
-
 
 ## Some Notes on Spreadsheet Design
 
