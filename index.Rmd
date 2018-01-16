@@ -40,7 +40,9 @@ opts_knit$set(width=75)
 <br>
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: TBD
+**Office**: Donovan 1127?
+
+**Office Hours**: Tuesday 4:00--5:00 and Monday/Wednesday 10:30--12:00
 
 **Email**:  matthew.brigida@sunyit.edu
 
@@ -267,19 +269,19 @@ all spreadsheets should be submitted as .xlsx.*
 
 
 - 1/15: Chapter 1
-- 1/22:  Chapter 2 \& 3
-- 1/29: Chapter 3 \& 4
-- 2/5: Chapter 14
-- 2/12: (exam review) 
-- 2/19: **Exam 1** & Chapter 15
-- 2/26: Chapter 16 & [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
-- 3/12: Chapter 20
-- 3/19: Chapter 21
-- 3/26: (exam review) 
-- 4/2: **Exam 2** & Chapter 21
-- 4/9: Chapter 22
-- 4/16: Chapter 23
-- 4/23: Trading, exam review, **and the last day to submit any projects.**
+- 1/22:  Chapter 2 \& 3 **Start Market Depth Project**
+- 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.)
+- 2/5: Chapter 5
+- 2/12: Chapter 6
+- 2/19: Chapter 7 **Start MV Optimal Portfolio Project** [See Video Instructions Here](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
+- 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
+- 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
+- 3/19: Chapter 20
+- 3/26: Chapter 21 **Start Option Pricing (Black-Scholes) Project**
+- 4/2: Chapter 22
+- 4/9: Chapter 23
+- 4/16: Projects/Trade
+- 4/23: Projects/Trade **last week to submit any projects.**
 - 4/30: Finals Week
 
 > Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24.
