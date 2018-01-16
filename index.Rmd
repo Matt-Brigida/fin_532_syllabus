@@ -40,7 +40,9 @@ opts_knit$set(width=75)
 <br>
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: TBD
+**Office**: Donovan 1127?
+
+**Office Hours**: Tuesday 4:00--5:00 and Monday/Wednesday 10:30--12:00
 
 **Email**:  matthew.brigida@sunyit.edu
 
