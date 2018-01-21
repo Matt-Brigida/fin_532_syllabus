@@ -40,9 +40,9 @@ opts_knit$set(width=75)
 <br>
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: Donovan 1127?
+**Office**: Donovan 1277
 
-**Office Hours**: Tuesday 4:00--5:00 and Monday/Wednesday 10:30--12:00
+**Office Hours**: Tuesday 5:00--6:00 and Monday/Wednesday 10:30--12:00
 
 **Email**:  matthew.brigida@sunyit.edu
 
@@ -275,6 +275,7 @@ all spreadsheets should be submitted as .xlsx.*
 - 2/12: Chapter 6
 - 2/19: Chapter 7 **Start MV Optimal Portfolio Project** [See Video Instructions Here](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
 - 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
+*Midterm is through Securitization.  Final exam will cover from here onward.*
 - 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
 - 3/19: Chapter 20
 - 3/26: Chapter 21 **Start Option Pricing (Black-Scholes) Project**
