@@ -275,7 +275,7 @@ all spreadsheets should be submitted as .xlsx.*
 - 2/12: Chapter 6
 - 2/19: Chapter 7 **Start MV Optimal Portfolio Project** [See Video Instructions Here](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
 - 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
-*Midterm is through Securitization.  Final exam will cover from here onward.*
+- *Midterm is through Securitization.  Final exam will cover from here onward.*
 - 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
 - 3/19: Chapter 20
 - 3/26: Chapter 21 **Start Option Pricing (Black-Scholes) Project**
