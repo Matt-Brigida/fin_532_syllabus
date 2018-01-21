@@ -271,9 +271,9 @@ all spreadsheets should be submitted as .xlsx.*
 - 1/15: Chapter 1
 - 1/22:  Chapter 2 \& 3 **Start Market Depth Project**
 - 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.)
-- 2/5: Chapter 5
+- 2/5: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
 - 2/12: Chapter 6
-- 2/19: Chapter 7 **Start MV Optimal Portfolio Project** [See Video Instructions Here](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
+- 2/19: Chapter 7 **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
 - 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
 - *Midterm is through Securitization.  Final exam will cover from here onward.*
 - 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
