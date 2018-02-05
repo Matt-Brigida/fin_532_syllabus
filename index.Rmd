@@ -168,7 +168,7 @@ Throughout the semester we'll work on a series of projects that will help us und
 
 -  **Everyone must complete all required projects.**
 
--  **Everyone must complete one potential project.**
+-  **Everyone must complete one potential project OR the set of Trading Assignments.**
 
 -  Each project will require computations either in a spreadsheet, or programming language.  Use whichever you wish, though if you write it in a programming language (such as R or Python) you'll have to share the code so I can reproduce your results.
 
@@ -225,8 +225,8 @@ tabl <- "
 | Midterm Exam |  15 |
 | Final Exam |  15 |
 | Participation (Blackboard Discussion) |    25 |
-| Projects | 25  |
-| Trading/Other Assignments | 20 |
+| Required Projects | 25  |
+| Trading (or Potential Project)/Other Assignments | 20 |
 | Total Points | 100 |
 "
 cat(tabl)
