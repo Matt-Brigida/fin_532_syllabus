@@ -1,6 +1,6 @@
 ---
 title: 
-date: "January 15, 2018"
+date: "January 15, 2019"
 output: 
   rmdformats::html_clean:
     highlight: kate
@@ -58,7 +58,7 @@ opts_knit$set(width=75)
 
 -  Short videos many of which are/will be posted at the following links: [Investments](https://www.youtube.com/playlist?list=PLRK1VeglPb4NO-D0HOn0QE9lQlBNR1vHK) and [Portfolio Theory](https://www.youtube.com/playlist?list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6).
 
--  Via BlackBaord Collaborate.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.
+-  Via BlackBoard Collaborate.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.
 
 ## Description
 
@@ -286,6 +286,19 @@ all spreadsheets should be submitted as .xlsx.*
 - 4/30: Finals Week
 
 > Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24.
+
+## BRTI Tick Data {#brti}
+
+Below are millisecond data for the Bitcoin Real-Time Index on Jan 3, 2018.  The data are pulled via the IB API.  With data of this type, you can dicover interesting features of market data---for example, notice the "last trade" is often outside of the bid/offer.  This is particularly important to understand when trading illiquid contracts, such as some options.  You can left-click your mouse, and drag, to zoom in on subintervals.
+
+```{r error=FALSE, warning=FALSE, eval = TRUE}
+library(dygraphs)
+
+book <- readRDS("./jan_fut_12_18_book.rds")
+
+dygraph(book['2018-01-03 09:30:00/2018-01-03 16:00:00'])
+
+```
 
 ## Some Notes on Spreadsheet Design
 
