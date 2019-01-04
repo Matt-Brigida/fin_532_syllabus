@@ -159,7 +159,6 @@ be nonexistent. **If you lose your password, or forget your username, etc, you w
 account for the semester.** In this case you will have to trade in another student’s account, or mine.
 Please pay attention while setting up your account, and write everything down.
 
-
 ## Projects
 
 Throughout the semester we'll work on a series of projects that will help us understand both financial theories, and also, *importantly*, practical considerations we are faced with when applying these theories in the real-world. Some notes on the projects:
@@ -173,6 +172,24 @@ Throughout the semester we'll work on a series of projects that will help us und
 -  Each project will require computations either in a spreadsheet, or programming language.  Use whichever you wish, though if you write it in a programming language (such as R or Python) you'll have to share the code so I can reproduce your results.
 
 If you have questions on a project you are encouraged to post your spreadsheet/code to the relevant discussion board so I and other students can help.  You learn a great deal by helping others, and by seeing how others approach the problem.  Also don't worry too much about others copying you.  It is fairly easy to tell when one spreadsheet has been copied from another.  Moreover, since you posted yours, it would be clear that you were the one copied off of.
+
+### Required Projects
+
+- Market Depth
+- Mean-Variance Optimal Portfolios
+- Black-Scholes Option Valuation
+
+### Potential Projects
+
+- [Futures from Options](https://matt-brigida.github.io/fin_532_futures_from_options/)
+- [Immunization](https://matt-brigida.github.io/fin_532_immunization/)
+- [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
+- [Regulatory Capital and Bank Lending](https://matt-brigida.github.io/FIN_532_Regulatory_Capital_and_Lending_Project/)
+- Trading Assignments
+  + [Trading Assignment 1](https://github.com/Matt-Brigida/fin-332-trading-assignments/blob/master/TA_1.md)
+  + [Trading Assignment 2](https://github.com/Matt-Brigida/fin-332-trading-assignments/blob/master/TA_2.md)
+  + [Trading Assignment 3](https://github.com/Matt-Brigida/fin-332-trading-assignments/blob/master/TA_4.md)  Ignore that it says assignment 4 on the web page.
+
 
 <!-- There are two ways to satisfy the 40 participation points.  You can: -->
 ## Participation
