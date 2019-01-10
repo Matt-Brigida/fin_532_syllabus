@@ -1,7 +1,7 @@
 ---
-title: 
+title:
 date: "January 15, 2019"
-output: 
+output:
   rmdformats::html_clean:
     highlight: kate
 ##  html_document:
@@ -72,13 +72,13 @@ understand the use of leverage inherent in margin accounts and some derivative s
 
 #.  To extend previous study on equity and fixed income security valuation. Further, we will introduce
 and value hybrid securities which have characteristics of both debt and equity (particularly convertible
-bonds). Valuing the warrant in a convertible bond will also serve as a prelude to derivative securities.  
+bonds). Valuing the warrant in a convertible bond will also serve as a prelude to derivative securities.
 
 #.  Quantify the interest rate risk in fixed income securities using duration and convexity. Moreover, the
 student will be able to discuss the allocation of interest rate risk between lender and borrower in fixed
 rate as compared to adjustable rate securities.
 
-#.  Assess reinvestment risk in fixed income securities and the benefits inherent in the option to prepay. 
+#.  Assess reinvestment risk in fixed income securities and the benefits inherent in the option to prepay.
 
 #.  This course will also introduce exchange­listed derivative securities (futures and options), along with
 basic hedging and speculation strategies using these securities. Students will also learn about the
@@ -116,7 +116,7 @@ In addition to the lectures I posted to YouTube, I will also record lectures via
 
 ## Exams
 
-There will be two exams (a midterm and a final). The exams will mainly be comprised of short-answer questions, and computations.  More involved questions will be worth more points.  Many of the exam questions will be derived from the assigned end-of-chapter questions, so you can prepare for the exam by completing all of the end-of-chapter questions.  Specifically, the discussion (*Concept Questions*) are similar to the short answer questions, and the *Optimal Homework* is similar to the computations. 
+There will be two exams (a midterm and a final). The exams will mainly be comprised of short-answer questions, and computations.  All questions will be worth equal points.  Exam questions may be derived from the assigned end-of-chapter questions, so you can prepare for the exam by completing all of the end-of-chapter questions.  Specifically, the discussion (*Concept Questions*) are similar to the short answer questions, and the *Optimal Homework* is similar to the computations.
 
 While you are allowed to use your text during the exam, you should not rely on it.  Students perform considerably better if they know the material beforehand, and only need to consult the text for a few questions.
 
@@ -128,7 +128,7 @@ For each exam you will need:
 
 #. Spreadsheet software to answer the computation questions (you can send me the spreadsheet as .xls or .xlsx).
 
-Normally no make-up exams will be given.  Failure to take an exam will result in a grade of zero for the missed exam.  Make-up exams will only be allowed for *extraordinary* and *verifiable* reasons.
+Normally no make-up exams will be given.  Failure to hand in an exam will result in a grade of zero.  Make-up exams will only be allowed for *extraordinary* and *verifiable* reasons.
 
 **Mid-term Exam**
 
@@ -136,7 +136,7 @@ I will post the exam as a pdf file to Blackboard by the Wednesday before the exa
 
 **Final Exam**
 
-The final exam is concentrated on the topics learned after the mid-term exam, so the exam is not comprehensive *per se*.  However, the concepts learned after the mid-term rely heavily those tested in the mid-term, so a poor understanding of the material on the mid-term will lead to a poor performance on the final exam. 
+The final exam is concentrated on the topics learned after the mid-term exam, so the exam is not comprehensive *per se*.  However, the concepts learned after the mid-term rely heavily those tested in the mid-term, so a poor understanding of the material on the mid-term will lead to a poor performance on the final exam.
 
 Exactly like the mid-term, I will post the exam as a pdf file to Blackboard by the Wednesday before the exam due date. You should upload your completed exam to the Blackbaord Dropbox by the due date/time.
 
@@ -206,7 +206,7 @@ For each two-week period I will post a set of *End-of-Chapter Questions* from th
 
 The subject line of your discussion post should be the in the format [chapter].[question number].  For example, if you are answering question 5 from chapter 3, your subject line should be '5.3'.  Also, be sure to have one post for each answer. Don't answer multiple questions in one post.
 
-If the questions requires computation, then use Excel (or other spreadsheet) and post your spreadsheet as your answer.  
+If the questions requires computation, then use Excel (or other spreadsheet) and post your spreadsheet as your answer.
 
 <!-- In addition to your answer, you must post 1 response to other students' answers.  So each week you will post 1 answer, and 1 response to other answers, for a total of 2 posts to the discussion board each period. -->
 
@@ -224,7 +224,7 @@ A particular period's discussion will conclude Sunday at 9pm.
 
 ## Trading/Other Assignments
 
-I'll assign several homeworks throughout the semester that involve either trading in your brokerage accounts, or downloading data in R and performing some calculation/analyses. If I give pop quizzes, these grades will be included here. 
+I'll assign several homeworks throughout the semester that involve either trading in your brokerage accounts, or downloading data in R and performing some calculation/analyses. If I give pop quizzes, these grades will be included here.
 
 ## Course Communication
 
@@ -248,7 +248,7 @@ tabl <- "
 "
 cat(tabl)
 ```
-  
+
 </center>
 
 <center>
@@ -286,7 +286,7 @@ all spreadsheets should be submitted as .xlsx.*
 
 
 - 1/15: Chapter 1
-- 1/22:  Chapter 2 \& 3 
+- 1/22:  Chapter 2 \& 3
 - 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
 - 2/5: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
 - 2/12: Chapter 6
@@ -321,9 +321,9 @@ dygraph(book['2018-01-03 09:30:00/2018-01-03 16:00:00'])
 
 You should construct your spreadsheet as if you were an analyst at a company, and you were going to submit the spreadsheet to upper management.  Therefore, getting the correct answer can be considered the minimal amount of work.  The spreadsheet should be easily readable and organized.  There are a couple of reasons why this is important: (1) management often will check some numbers (or maybe change a few inputs if they have more up to date information) and it will reflect very poorly on you if they have to search around through a muddled and ill-conceived spreadsheet; and (2) anyone should be able to pick up your spreadsheet and complete it if you are not there (vacation, sick, or hopefully promoted).  Following are a couple tips on spreadsheet design, though it is far from exhaustive.
 
-- Hard-code as little as possible.  You want a few cells for your inputs, or a place where you put your data, and then every other cell is linked and feeds off of these input cells. This way, to update your spreadsheet you simply change the inputs or drop in new data.  
+- Hard-code as little as possible.  You want a few cells for your inputs, or a place where you put your data, and then every other cell is linked and feeds off of these input cells. This way, to update your spreadsheet you simply change the inputs or drop in new data.
 - Take the time to label cells, and put in appropriate comments if necessary  - though comments should not be used excessively. Also, it is common to change the cell color depending on whether it is hard-coded (an input) or a formula.  This way you (or anyone else) can immediately look at a cell and tell whether it is one in which you can type (an input).  Don't forget to include a key.
 - It is often better to add tabs to a spreadsheet than continue calculations on one tab.  You can easily page through spreadsheet tabs with `Ctrl+Shift' and `Page-up' or `Page-down'.
 - Pivot tables.  While we probably won't need them in this course, you should nonetheless get to know them.  Pivot tables are incredibly useful for summarizing data, and it is very possible you will be asked in an interview whether you are familiar with them.  Similarly, get to know VLOOKUP.
--  If you are inputting a long formula, then break the calculation into multiple cells.  This makes it much easier to tell where a mistake was made - and everyone always spends a fair amount of time looking for errors. 
-- Excel has many built in formulas which can be useful, however it is important that you understand what the formula is doing to use them.  Blindly applying a formula can lead to trouble.  For example, if you use the IRR() function on cash flows with multiple roots, the formula will return the first root it finds without signaling to you that there are other roots.  Also, there are Excel formulas that are flat out incorrect - in particular the NPV() function.  So, use a function if it saves time, but first be sure you know what the function is doing and verify it works.  That said, in my experience it is better (and faster) to input your own formula instead of using Excel's.  You often have to break the calculation into a couple of steps, but this can be done quickly, and the result is a spreadsheet that you know works and is easily auditable. 
+-  If you are inputting a long formula, then break the calculation into multiple cells.  This makes it much easier to tell where a mistake was made - and everyone always spends a fair amount of time looking for errors.
+- Excel has many built in formulas which can be useful, however it is important that you understand what the formula is doing to use them.  Blindly applying a formula can lead to trouble.  For example, if you use the IRR() function on cash flows with multiple roots, the formula will return the first root it finds without signaling to you that there are other roots.  Also, there are Excel formulas that are flat out incorrect - in particular the NPV() function.  So, use a function if it saves time, but first be sure you know what the function is doing and verify it works.  That said, in my experience it is better (and faster) to input your own formula instead of using Excel's.  You often have to break the calculation into a couple of steps, but this can be done quickly, and the result is a spreadsheet that you know works and is easily auditable.
