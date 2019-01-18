@@ -1,0 +1,326 @@
+---
+title:
+date: "January 15, 2019"
+output: word_document
+always_allow_html: yes
+---
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+# Syllabus (FIN 532) Investment Management
+<br>
+<br>
+<center>
+<b>SUNY POLYTECHNIC INSTITUTE</b>
+
+<b>SCHOOL OF BUSINESS ADMINISTRATION</b>
+</center>
+<br>
+<br>
+**Instructor**: Matthew Brigida, Ph.D.
+
+**Office**: Donovan 1277
+
+**Office Hours**: Tuesday 4:00--6:00 and Monday/Wednesday 11:00--12:00
+
+**Email**:  matthew.brigida@sunyit.edu
+
+**Class Location**:  Online (Blackboard)
+
+**Text**: *Investments* by Bodie, Kane, and Marcus, 8th edition (or later), ISBN: 0077261453.
+
+**Supplementary Material**: [5MinuteFinance.org](https://www.5minutefinance.org/)
+
+## Course Structure and Interaction
+
+-  Text Readings and Exercises
+
+-  Short videos many of which are/will be posted at the following links: [Investments](https://www.youtube.com/playlist?list=PLRK1VeglPb4NO-D0HOn0QE9lQlBNR1vHK) and [Portfolio Theory](https://www.youtube.com/playlist?list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6).
+
+-  Via BlackBoard Collaborate.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.
+
+## Description
+
+An introductory survey of the fundamental principles of investment management. The learning outcomes for this course are summarized below:
+
+#.  Understanding the structure of various capital markets, as well as how and why organizations
+(ranging from individuals to multinational firms) participate in these markets. Particular importance will
+be assigned to innovations in market structures (dark pools, ECNs) and their implications for market
+participants. The student will be able to set up buy and sell orders for various securities, as well as
+understand the use of leverage inherent in margin accounts and some derivative securities.
+
+#.  To extend previous study on equity and fixed income security valuation. Further, we will introduce
+and value hybrid securities which have characteristics of both debt and equity (particularly convertible
+bonds). Valuing the warrant in a convertible bond will also serve as a prelude to derivative securities.
+
+#.  Quantify the interest rate risk in fixed income securities using duration and convexity. Moreover, the
+student will be able to discuss the allocation of interest rate risk between lender and borrower in fixed
+rate as compared to adjustable rate securities.
+
+#.  Assess reinvestment risk in fixed income securities and the benefits inherent in the option to prepay.
+
+#.  This course will also introduce exchange­listed derivative securities (futures and options), along with
+basic hedging and speculation strategies using these securities. Students will also learn about the
+markets wherein derivatives are traded, and how laws governing these markets may differ from the laws
+governing the stock markets. A basic introduction to valuing futures on storable commodities,
+currencies, and interest rates will be afforded. We will then briefly discuss futures on non­storable commodities (particularly electricity). Lastly, using Excel students will apply the Black­Scholes (1973) option pricing model to valuing options on non­dividend paying stock. The assumptions of Black­Scholes (1973) will be discusses along with a non­rigorous introduction to risk neutral pricing (intended to motivate further study).
+
+#.  Students will be able to measure the risk and return of individual securities as well as of a portfolio of
+multiple risky securities. The effect of forming a portfolio on risk and expected return will be quantified,
+as well as the resulting implications for forming an efficient portfolio. We will derive the Capital Asset
+Pricing Model (CAPM) and thereby calculate the expected return for individual securities. A short
+discussion of the assumptions of the CAPM and the alternative 'Arbitrage Pricing Theory' (APT) will
+conclude.
+
+## Academic Honesty Policy
+
+Academic dishonesty will not be tolerated in this class. Cheating
+on quizzes, examinations, and other forms of dishonesty (e.g., plagiarism, collusion, and
+falsification of data) will be dealt with in a serious and formal manner. The penalty for academic
+dishonesty in this class will be course failure. That is, any student who is found to be cheating
+or engaged in other academically dishonest behavior will be failed for this course for this
+semester. Course withdrawals to avoid such a failure will not be permitted. As a student, you
+have a responsibility to become familiar with the Academic Honesty Policy found in the Student
+Rights, Regulations, and Procedures Handbook.
+
+## Online Office Hours
+
+I will be logged on the course throughout the week to answer questions and review the discussions.  If a few students have questions on the material, and there is a good time to meet, I'll log into BB Collaborate and record the answers.
+
+Students do not need to access the course simultaneously, and therefore have a measure of flexibility regarding when they access the course.  However, students should access the course regularly to keep up with assignments, and to maintain a presence in the Discussion Room.  Students should also often check their SUNY Poly email account.
+
+## Lectures
+
+In addition to the lectures I posted to YouTube, I will also record lectures via BB Collaborate.  I'll try and let you know when I am recording each lecture, so you can log in an interact.  However all that is required is that you watch the lecture at some point---meaning you are free to just watch the recording.
+
+## Exams
+
+There will be two exams (a midterm and a final). The exams will mainly be comprised of short-answer questions, and/or computations.  All questions will be worth equal points.  Exam questions may be derived from the assigned end-of-chapter questions, so you can prepare for the exam by completing all of the end-of-chapter questions.  Specifically, the discussion (*Concept Questions*) are similar to the short answer questions, and the *Optimal Homework* is similar to the computations.
+
+<!---While you are allowed to use your text during the exam, you should not rely on it.  Students perform considerably better if they know the material beforehand, and only need to consult the text for a few questions.
+
+For each exam you will need:
+
+#.  Access to software which can display pdf files (I will send the exam to you as a pdf).
+
+#.  A wordprocessor which can write pdf files (you will send your short answer questions back to me as a pdf).
+
+#. Spreadsheet software to answer the computation questions (you can send me the spreadsheet as .xls or .xlsx).-->
+
+Normally no make-up exams will be given.  Failure to hand in an exam will result in a grade of zero.  Make-up exams will only be allowed for *extraordinary* and *verifiable* reasons.
+
+**Mid-term Exam**
+
+I will post the exam as a pdf file to Blackboard by the Wednesday before the exam due date. You will have until the exam due date/time to submit the mid-term exam.  You will submit your exam using the Dropbox in Blackboard.
+
+**Final Exam**
+
+The final exam is concentrated on the topics learned after the mid-term exam, so the exam is not comprehensive *per se*.  However, the concepts learned after the mid-term rely heavily those tested in the mid-term, so a poor understanding of the material on the mid-term will lead to a poor performance on the final exam.
+
+Exactly like the mid-term, I will post the exam as a pdf file to Blackboard by the Wednesday before the exam due date. You should upload your completed exam to the Blackboard Dropbox by the due date/time.
+
+**Exam Rules**
+
+You are not to discuss the exam with other students.  Both receiving help from another student, or helping another student on an exam, are considered serious academic irregularities the result of which can range from receiving an `F` in the course to dismissal from the university.
+
+**You must complete and submit your computation questions in a spreadsheet.  If you submit your computation answers in Word, I will reduce your score.  You should also not treat your spreadsheet as a Word or text file.  That is answers should be written as formulas, and not as text strings.**
+
+**If your spreadsheet is disorganized you will lose points. The computations and answers should be easily found and understood by anyone opening your spreadsheet. See the 'Note on Spreadsheet Design' at the end of this syllabus.**
+
+## Brokerage Accounts
+
+We will use paper trading accounts provided by Interactive Brokers. These
+trading accounts are the exact same as the actual brokerage accounts---except the money isn’t real.
+You will have access to (and real data from) stock, bond, commodity, and foreign exchange markets.
+While the data alone is worth a fair amount of money, Interactive Brokers is offering the accounts to us
+for free. Keep this in mind while following the directions to set up your account customer service will
+be nonexistent. **If you lose your password, or forget your username, etc, you will not have an
+account for the semester.** In this case you will have to trade in another student’s account, or mine.
+Please pay attention while setting up your account, and write everything down.
+
+## Projects
+
+Throughout the semester we'll work on a series of projects that will help us understand both financial theories, and also, *importantly*, practical considerations we are faced with when applying these theories in the real-world. Some notes on the projects:
+
+-  I'd like to give you the chance to choose a few projects from a larger set.  This will give you and opportunity to choose projects which are most relevant to your work or interests.  So there will be **required** and **potential** projects.
+
+-  **Everyone must complete all required projects.**
+
+-  **Everyone must complete one potential project OR the set of Trading Assignments.**
+
+-  Each project will require computations either in a spreadsheet, or programming language.  Use whichever you wish, though if you write it in a programming language (such as R or Python) you'll have to share the code so I can reproduce your results.
+
+If you have questions on a project you are encouraged to post your spreadsheet/code to the relevant discussion board so I and other students can help.  You learn a great deal by helping others, and by seeing how others approach the problem.  Also don't worry too much about others copying you.  It is fairly easy to tell when one spreadsheet has been copied from another.  Moreover, since you posted yours, it would be clear that you were the one copied off of.
+
+### Required Projects
+
+- Market Depth
+- Mean-Variance Optimal Portfolios
+- Black-Scholes Option Valuation
+
+### Potential Projects
+
+- [Futures from Options](https://matt-brigida.github.io/fin_532_futures_from_options/)
+- [Immunization](https://matt-brigida.github.io/fin_532_immunization/)
+- [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
+- [Regulatory Capital and Bank Lending](https://matt-brigida.github.io/FIN_532_Regulatory_Capital_and_Lending_Project/)
+- Trading Assignments
+  + [Trading Assignment 1](https://github.com/Matt-Brigida/fin-332-trading-assignments/blob/master/TA_1.md)
+  + [Trading Assignment 2](https://github.com/Matt-Brigida/fin-332-trading-assignments/blob/master/TA_2.md)
+  + [Trading Assignment 3](https://github.com/Matt-Brigida/fin-332-trading-assignments/blob/master/TA_4.md)  Ignore that it says assignment 4 on the web page.
+
+
+<!-- There are two ways to satisfy the 40 participation points.  You can: -->
+## Participation
+<!-- #. Take part in the weekly online discussion boards. -->
+<!-- #. Submit 70 short questions and answers on Corporate Finance to GitHub. -->
+
+<!-- **Important:  You can only complete (1) or (2).  You cannot mix the two.  For instance, you cannot miss a week of the discussion board and submit a few short questions and answers instead.  You either submit 70 short answers or complete every discussion.  As an example, if you submit 60 of 70 short questions and answers, and complete 2 of the 7 discussions, you will receive $\frac{60}{70} = 85.71\%$ as your participation score.** -->
+
+  <!-- The main difference between the two options is that for the weekly discussion you must make your contributions each week, whereas you can complete the short questions and answers anytime prior to the due date.  This latter option adds flexibility. -->
+
+<!-- **1.  DISCUSSION:**  -->
+
+For each two-week period I will post a set of *End-of-Chapter Questions* from the text.  You must choose 1 of the questions from the set and post your answer to the discussion board.  Try and choose a question that has not yet been answered, but if all the questions have been answered then try and add unique information in your answer.
+
+The subject line of your discussion post should be the in the format [chapter].[question number].  For example, if you are answering question 5 from chapter 3, your subject line should be '5.3'.  Also, be sure to have one post for each answer. Don't answer multiple questions in one post.
+
+If the questions requires computation, then use Excel (or other spreadsheet) and post your spreadsheet as your answer.
+
+<!-- In addition to your answer, you must post 1 response to other students' answers.  So each week you will post 1 answer, and 1 response to other answers, for a total of 2 posts to the discussion board each period. -->
+
+<!-- To receive credit your posts must be constructive, preferably somewhat insightful, and show you have done the reading.  If your post does not meet the preceding criteria, please don't bother posting it because it will just clutter the discussion board.   -->
+
+A particular period's discussion will conclude Sunday at 9pm.
+
+<!-- **2.  Q/A:** You should post finance related short questions and answers similar to what you find at https://github.com/finance-AI/data/blob/master/studentQA/studentQA_fall_2016.txt.  These are submission from an earlier class.  You should submit your Q/A in the same format. -->
+
+<!--   This assignment will help you learn our Corporate Finance material by writing concise answers to finance questions.  In addition, your submitted Q/A will be used to train a finance Artificial Intelligence.  I will feed the Q/A into a deep neural network to train a chatbot that can answer finance questions---think Siri for finance.    -->
+
+<!-- I have created a file for Q/A for this course https://github.com/finance-AI/data/blob/master/studentQA/studentQA_570_summer_2017.txt.  Submit your Q/A there.  Adding to the file is easy---[see this video for a short tutorial](https://www.youtube.com/watch?v=iVC9UKkaiko), and [This is an example of a link to a commit.](https://github.com/FinancialMarkets/5MinuteFinance/commit/8f12f63b546a80fdb04e787514d967f1a1c0725f) -->
+
+<!-- If your GitHub username is similar to your real name, then you don't have to tell me you have submitted the Q/A (I'll see it).  If your username is different, then send me an email from your clarion email address with the Subject "FIN 570 Q/A" letting me know your real name and GitHub username.  Note, GitHub shows how many lines you have added, so there is no need to number your questions.  Also, don't label the questions and answers.  -->
+
+## Trading/Other Assignments
+
+I'll assign several homeworks throughout the semester that involve either trading in your brokerage accounts, or downloading data in R and performing some calculation/analyses. If I give pop quizzes, these grades will be included here.
+
+## Course Communication
+
+All communication will be through Blackboard and email. If you have question you are strongly encouraged to post it to a discussion forum instead of emailing me.  This way, other students can get the benefit of the question and answer.  It also saves me from answering the same question many times via email, and frees me up to answer more questions and generally provide more effective instruction for you.
+
+
+## Grading
+
+<center>
+
+```{r grading, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+tabl <- "
+| Item | Points |
+| ---- | ------ |
+| Midterm Exam |  15 |
+| Final Exam |  15 |
+| Participation (Blackboard Discussion) |    25 |
+| Required Projects | 25  |
+| Trading (or Potential Project)/Other Assignments | 20 |
+| Total Points | 100 |
+"
+cat(tabl)
+```
+
+</center>
+
+<center>
+**Final grades will be assigned according to the following scale**:
+</center>
+
+- 90 - 100 A
+- 80 - 89.9 B
+- 70 - 79.9 C
+- 60 - 69.9 D
+- $<$ 60 F
+
+> +/- grades may be assigned at the instructors discretion.
+
+## Tentative Outline
+
+- 1/15: Chapter 1
+- 1/22:  Chapter 2 \& 3
+- 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
+- 2/5: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
+- 2/12: Chapter 6
+- 2/19: Chapter 7 
+  + **Recommended <font color="red">Due Date</font> for the Market Depth Project**
+  + **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
+- 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
+- *Midterm is through Securitization.  Final exam will cover from here onward.*
+- 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
+- 3/19: Chapter 20
+- 3/26: Chapter 21 
+  + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project**
+  + **Start Option Pricing (Black-Scholes) Project**
+- 4/2: Chapter 22
+- 4/9: Chapter 23
+- 4/16: Projects/Trade
+- 4/23: Projects/Trade 
+  + **<font color="red">All assignments/exams/projects due by the end of the week</font>.**
+- 4/30: Finals Week
+
+> Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24.
+
+## General Notes
+
+- All times referred to in this course are Eastern Standard---unless otherwise indicated.
+- There will be no make up exams or extra points assignments.
+- Cheating will result in prosecution to the fullest extent possible under university rules.
+- You are responsible for material covered in the online discussion, as well as text material.
+-  **Internet Access:** This course requires that you have regular access to the internet to submit work.  You should not take this course if you plan on being in an area with insufficient internet access. "My internet was down for a week" is not an acceptable reason to hand in late work.
+-  **Adding or Dropping the Course:** To add or drop the course the student should consult the university guidelines and withdrawal dates. The course instructor is not involved in a student's adding or withdrawing from the course.
+- **Software:** You will need word processing and spreadsheet software to take
+this course. Common examples of such software are Microsoft Word and
+Excel. However, there is no need to buy this software if you don't already
+have it. There are many free (open-source) alternatives which are just as
+good (and which allow you to save/read files as .doc(x), .pdf, and .xls(x)).
+Some widely used free office suites are LibreOffice (http://www.libreoffice.org)
+and OpenOffice (http://www.openoffice.org). Feel free to download and use
+these. *In this course all word processed submissions should be in .pdf, and
+all spreadsheets should be submitted as .xlsx.*
+
+
+## BRTI Tick Data {#brti}
+
+Below are millisecond data for the Bitcoin Real-Time Index on Jan 3, 2018.  The data are pulled via the IB API.  With data of this type, you can dicover interesting features of market data---for example, notice the "last trade" is often outside of the bid/offer.  This is particularly important to understand when trading illiquid contracts, such as some options.  You can left-click your mouse, and drag, to zoom in on subintervals.
+
+```{r error=FALSE, warning=FALSE, eval = TRUE}
+library(dygraphs)
+
+book <- readRDS("./jan_fut_12_18_book.rds")
+
+dygraph(book['2018-01-03 09:30:00/2018-01-03 16:00:00'])
+
+```
+
+## Some Notes on Spreadsheet Design
+
+You should construct your spreadsheet as if you were an analyst at a company, and you were going to submit the spreadsheet to upper management.  Therefore, getting the correct answer can be considered the minimal amount of work.  The spreadsheet should be easily readable and organized.  There are a couple of reasons why this is important: (1) management often will check some numbers (or maybe change a few inputs if they have more up to date information) and it will reflect very poorly on you if they have to search around through a muddled and ill-conceived spreadsheet; and (2) anyone should be able to pick up your spreadsheet and complete it if you are not there (vacation, sick, or hopefully promoted).  Following are a couple tips on spreadsheet design, though it is far from exhaustive.
+
+- Hard-code as little as possible.  You want a few cells for your inputs, or a place where you put your data, and then every other cell is linked and feeds off of these input cells. This way, to update your spreadsheet you simply change the inputs or drop in new data.
+- Take the time to label cells, and put in appropriate comments if necessary  - though comments should not be used excessively. Also, it is common to change the cell color depending on whether it is hard-coded (an input) or a formula.  This way you (or anyone else) can immediately look at a cell and tell whether it is one in which you can type (an input).  Don't forget to include a key.
+- It is often better to add tabs to a spreadsheet than continue calculations on one tab.  You can easily page through spreadsheet tabs with `Ctrl+Shift` and `Page-up` or `Page-down`.
+- Pivot tables.  While we probably won't need them in this course, you should nonetheless get to know them.  Pivot tables are incredibly useful for summarizing data, and it is very possible you will be asked in an interview whether you are familiar with them.  Similarly, get to know VLOOKUP.
+-  If you are inputting a long formula, then break the calculation into multiple cells.  This makes it much easier to tell where a mistake was made - and everyone always spends a fair amount of time looking for errors.
+- Excel has many built in formulas which can be useful, however it is important that you understand what the formula is doing to use them.  Blindly applying a formula can lead to trouble.  For example, if you use the IRR() function on cash flows with multiple roots, the formula will return the first root it finds without signaling to you that there are other roots.  Also, there are Excel formulas that are flat out incorrect - in particular the NPV() function.  So, use a function if it saves time, but first be sure you know what the function is doing and verify it works.  That said, in my experience it is better (and faster) to input your own formula instead of using Excel's.  You often have to break the calculation into a couple of steps, but this can be done quickly, and the result is a spreadsheet that you know works and is easily auditable.
