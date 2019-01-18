@@ -42,7 +42,7 @@ opts_knit$set(width=75)
 
 **Office**: Donovan 1277
 
-**Office Hours**: Tuesday 5:00--6:00 and Monday/Wednesday 10:30--12:00
+**Office Hours**: Tuesday 4:00--6:00 and Monday/Wednesday 11:00--12:00
 
 **Email**:  matthew.brigida@sunyit.edu
 
@@ -116,9 +116,9 @@ In addition to the lectures I posted to YouTube, I will also record lectures via
 
 ## Exams
 
-There will be two exams (a midterm and a final). The exams will mainly be comprised of short-answer questions, and computations.  All questions will be worth equal points.  Exam questions may be derived from the assigned end-of-chapter questions, so you can prepare for the exam by completing all of the end-of-chapter questions.  Specifically, the discussion (*Concept Questions*) are similar to the short answer questions, and the *Optimal Homework* is similar to the computations.
+There will be two exams (a midterm and a final). The exams will mainly be comprised of short-answer questions, and/or computations.  All questions will be worth equal points.  Exam questions may be derived from the assigned end-of-chapter questions, so you can prepare for the exam by completing all of the end-of-chapter questions.  Specifically, the discussion (*Concept Questions*) are similar to the short answer questions, and the *Optimal Homework* is similar to the computations.
 
-While you are allowed to use your text during the exam, you should not rely on it.  Students perform considerably better if they know the material beforehand, and only need to consult the text for a few questions.
+<!---While you are allowed to use your text during the exam, you should not rely on it.  Students perform considerably better if they know the material beforehand, and only need to consult the text for a few questions.
 
 For each exam you will need:
 
@@ -126,7 +126,7 @@ For each exam you will need:
 
 #.  A wordprocessor which can write pdf files (you will send your short answer questions back to me as a pdf).
 
-#. Spreadsheet software to answer the computation questions (you can send me the spreadsheet as .xls or .xlsx).
+#. Spreadsheet software to answer the computation questions (you can send me the spreadsheet as .xls or .xlsx).-->
 
 Normally no make-up exams will be given.  Failure to hand in an exam will result in a grade of zero.  Make-up exams will only be allowed for *extraordinary* and *verifiable* reasons.
 
@@ -138,13 +138,13 @@ I will post the exam as a pdf file to Blackboard by the Wednesday before the exa
 
 The final exam is concentrated on the topics learned after the mid-term exam, so the exam is not comprehensive *per se*.  However, the concepts learned after the mid-term rely heavily those tested in the mid-term, so a poor understanding of the material on the mid-term will lead to a poor performance on the final exam.
 
-Exactly like the mid-term, I will post the exam as a pdf file to Blackboard by the Wednesday before the exam due date. You should upload your completed exam to the Blackbaord Dropbox by the due date/time.
+Exactly like the mid-term, I will post the exam as a pdf file to Blackboard by the Wednesday before the exam due date. You should upload your completed exam to the Blackboard Dropbox by the due date/time.
 
 **Exam Rules**
 
-You are not to discuss the exam with other students.  Both receiving help from another student, or helping another student on an exam, are considered serious academic irregularities the result of which can range from receiving an `F' in the course to dismissal from the university.
+You are not to discuss the exam with other students.  Both receiving help from another student, or helping another student on an exam, are considered serious academic irregularities the result of which can range from receiving an `F` in the course to dismissal from the university.
 
-**You must complete and submit your computation questions in a spreadsheet.  If you submiy your computation answers in Word, I will reduce your score.  You should also not treat your spreadsheet as a Word or text file.  That is answers should be written as formulas, and not as text strings.**
+**You must complete and submit your computation questions in a spreadsheet.  If you submit your computation answers in Word, I will reduce your score.  You should also not treat your spreadsheet as a Word or text file.  That is answers should be written as formulas, and not as text strings.**
 
 **If your spreadsheet is disorganized you will lose points. The computations and answers should be easily found and understood by anyone opening your spreadsheet. See the 'Note on Spreadsheet Design' at the end of this syllabus.**
 
@@ -265,7 +265,6 @@ cat(tabl)
 
 ## Tentative Outline
 
-
 - 1/15: Chapter 1
 - 1/22:  Chapter 2 \& 3
 - 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
@@ -328,7 +327,7 @@ You should construct your spreadsheet as if you were an analyst at a company, an
 
 - Hard-code as little as possible.  You want a few cells for your inputs, or a place where you put your data, and then every other cell is linked and feeds off of these input cells. This way, to update your spreadsheet you simply change the inputs or drop in new data.
 - Take the time to label cells, and put in appropriate comments if necessary  - though comments should not be used excessively. Also, it is common to change the cell color depending on whether it is hard-coded (an input) or a formula.  This way you (or anyone else) can immediately look at a cell and tell whether it is one in which you can type (an input).  Don't forget to include a key.
-- It is often better to add tabs to a spreadsheet than continue calculations on one tab.  You can easily page through spreadsheet tabs with `Ctrl+Shift' and `Page-up' or `Page-down'.
+- It is often better to add tabs to a spreadsheet than continue calculations on one tab.  You can easily page through spreadsheet tabs with `Ctrl+Shift` and `Page-up` or `Page-down`.
 - Pivot tables.  While we probably won't need them in this course, you should nonetheless get to know them.  Pivot tables are incredibly useful for summarizing data, and it is very possible you will be asked in an interview whether you are familiar with them.  Similarly, get to know VLOOKUP.
 -  If you are inputting a long formula, then break the calculation into multiple cells.  This makes it much easier to tell where a mistake was made - and everyone always spends a fair amount of time looking for errors.
 - Excel has many built in formulas which can be useful, however it is important that you understand what the formula is doing to use them.  Blindly applying a formula can lead to trouble.  For example, if you use the IRR() function on cash flows with multiple roots, the formula will return the first root it finds without signaling to you that there are other roots.  Also, there are Excel formulas that are flat out incorrect - in particular the NPV() function.  So, use a function if it saves time, but first be sure you know what the function is doing and verify it works.  That said, in my experience it is better (and faster) to input your own formula instead of using Excel's.  You often have to break the calculation into a couple of steps, but this can be done quickly, and the result is a spreadsheet that you know works and is easily auditable.
