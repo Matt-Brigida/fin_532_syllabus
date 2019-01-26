@@ -175,7 +175,7 @@ If you have questions on a project you are encouraged to post your spreadsheet/c
 
 ### Required Projects
 
-- Market Depth
+- [Market Depth](https://matt-brigida.github.io/fin_532_market_depth/)
 - Mean-Variance Optimal Portfolios
 - Black-Scholes Option Valuation
 
