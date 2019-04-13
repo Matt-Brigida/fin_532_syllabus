@@ -280,12 +280,12 @@ cat(tabl)
 - 3/26: Chapter 21 
   + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project**
   + **Start Option Pricing (Black-Scholes) Project**
-- 4/2: Chapter 22
-- 4/9: Chapter 23
-- 4/16: Projects/Trade
-- 4/23: Projects/Trade 
+- 4/1: Chapter 22
+- 4/8: Chapter 23
+- 4/15: Projects/Trade
+- 4/22: Projects/Trade 
   + **<font color="red">All assignments/exams/projects due by the end of the week</font>.**
-- 4/30: Finals Week
+- 5/6: Finals Week
 
 > Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24.
 
