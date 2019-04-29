@@ -48,7 +48,7 @@ opts_knit$set(width=75)
 
 **Class Location**:  Online (Blackboard)
 
-**Text**: *Investments* by Bodie, Kane, and Marcus, 8th edition (or later), ISBN: 0077261453.
+**Text**: [*Investments* by Bodie, Kane, and Marcus, 8th edition (or later), ISBN: 0077261453](http://www.amazon.com/Investments-8th-Edition-Zvi-Bodie/dp/0077261453/ref=sr_1_5?ie=UTF8&qid=1407685749&sr=8-5&keywords=investment+bodie+kane+marcus)
 
 **Supplementary Material**: [5MinuteFinance.org](https://www.5minutefinance.org/)
 
