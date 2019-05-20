@@ -204,7 +204,7 @@ If you have questions on a project you are encouraged to post your spreadsheet/c
 
 For each two-week period I will post a set of *End-of-Chapter Questions* from the text.  You must choose 1 of the questions from the set and post your answer to the discussion board.  Try and choose a question that has not yet been answered, but if all the questions have been answered then try and add unique information in your answer.
 
-The subject line of your discussion post should be the in the format [chapter].[question number].  For example, if you are answering question 5 from chapter 3, your subject line should be '5.3'.  Also, be sure to have one post for each answer. Don't answer multiple questions in one post.
+The subject line of your discussion post should be the in the format [chapter].[question number].  For example, if you are answering question 5 from chapter 3, your subject line should be '3.5'.  Also, be sure to have one post for each answer. Don't answer multiple questions in one post.
 
 If the questions requires computation, then use Excel (or other spreadsheet) and post your spreadsheet as your answer.
 
