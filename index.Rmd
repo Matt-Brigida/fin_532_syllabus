@@ -177,7 +177,7 @@ If you have questions on a project you are encouraged to post your spreadsheet/c
 
 - [Market Depth](https://matt-brigida.github.io/fin_532_market_depth/)
 - [Mean-Variance Optimal Portfolios](#mean-variance-optimal-portfolios)
-- Black-Scholes Option Valuation
+- [Black-Scholes Option Valuation](#black-scholes-valuation)
 
 ### Potential Projects
 
@@ -266,43 +266,43 @@ cat(tabl)
 ## Tentative Outline
 
 <!-- Spring -->
-<!-- - 1/15: Chapter 1 -->
-<!-- - 1/22:  Chapter 2 \& 3 -->
-<!-- - 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project** -->
-<!-- - 2/5: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1). -->
-<!-- - 2/12: Chapter 6 -->
-<!-- - 2/19: Chapter 7  -->
-<!--   + **Recommended <font color="red">Due Date</font> for the Market Depth Project** -->
-<!--   + **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12) -->
-<!-- - 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) -->
-<!-- - *Midterm is through Securitization.  Final exam will cover from here onward.* -->
-<!-- - 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required** -->
-<!-- - 3/19: Chapter 20 -->
-<!-- - 3/26: Chapter 21  -->
-<!--   + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project** -->
-<!--   + **Start Option Pricing (Black-Scholes) Project** -->
-<!-- - 4/1: Chapter 22 -->
-<!-- - 4/8: Chapter 23 -->
-<!-- - 4/15: Projects/Trade -->
-<!-- - 4/22: Projects/Trade  -->
-<!--   + **<font color="red">All assignments/exams/projects due by the end of the week</font>.** -->
-<!-- - 5/6: Finals Week -->
-
-<!-- Spring -->
-- 5/20: Chapters 1 and 2
-- 5/27: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
-- 6/3: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
-- 6/10: Chapters 6 and 7
+- 1/22: Chapter 1
+- 1/29:  Chapter 2 \& 3
+- 2/5:  Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
+- 2/12: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
+-  2/19: Chapter 6
+- 2/26:  Chapter 7
   + **Recommended <font color="red">Due Date</font> for the Market Depth Project**
   + **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
-- 6/17: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
-  + *Midterm is through Securitization.  Final exam will cover from here onward.*
-- 6/24: Chapters 20 and 21
+-  [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
+- *Midterm is through Securitization.  Final exam will cover from here onward.*
+- 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
+- 3/19: Chapter 20
+- 3/26: Chapter 21
   + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project**
   + **Start Option Pricing (Black-Scholes) Project**
-- 7/1: Chapters 22 and 23
-- 7/8: Projects/Trade
+- 4/1: Chapter 22
+- 4/8: Chapter 23
+- 4/15: Projects/Trade
+- 4/22: Projects/Trade
   + **<font color="red">All assignments/exams/projects due by the end of the week</font>.**
+- 5/6: Finals Week
+
+<!-- Summer -->
+<!-- - 5/20: Chapters 1 and 2 -->
+<!-- - 5/27: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project** -->
+<!-- - 6/3: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1). -->
+<!-- - 6/10: Chapters 6 and 7 -->
+<!--   + **Recommended <font color="red">Due Date</font> for the Market Depth Project** -->
+<!--   + **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12) -->
+<!-- - 6/17: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) -->
+<!--   + *Midterm is through Securitization.  Final exam will cover from here onward.* -->
+<!-- - 6/24: Chapters 20 and 21 -->
+<!--   + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project** -->
+<!--   + **Start Option Pricing (Black-Scholes) Project** -->
+<!-- - 7/1: Chapters 22 and 23 -->
+<!-- - 7/8: Projects/Trade -->
+<!--   + **<font color="red">All assignments/exams/projects due by the end of the week</font>.** -->
 
 
 > Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24.
@@ -350,7 +350,7 @@ You should construct your spreadsheet as if you were an analyst at a company, an
 -  If you are inputting a long formula, then break the calculation into multiple cells.  This makes it much easier to tell where a mistake was made - and everyone always spends a fair amount of time looking for errors.
 - Excel has many built in formulas which can be useful, however it is important that you understand what the formula is doing to use them.  Blindly applying a formula can lead to trouble.  For example, if you use the IRR() function on cash flows with multiple roots, the formula will return the first root it finds without signaling to you that there are other roots.  Also, there are Excel formulas that are flat out incorrect - in particular the NPV() function.  So, use a function if it saves time, but first be sure you know what the function is doing and verify it works.  That said, in my experience it is better (and faster) to input your own formula instead of using Excel's.  You often have to break the calculation into a couple of steps, but this can be done quickly, and the result is a spreadsheet that you know works and is easily auditable.
 
-## Mean Variance Optimal Portfolios
+### Mean Variance Optimal Portfolios
 
 In this project you'll create optimal portfolios as in the Appendix A to chapter 7 (pages 231 to 236) of your text.
 
@@ -363,3 +363,13 @@ This contains code to automatically pull stock returns (but it is a work in prog
 Also, using the link above requires that you run the code from within R.  If you don't not want to install R, I have a web app here (https://mattbrigida.shinyapps.io/chapter3/) which will pull the data for you.  Though the app is broken at this point because Yahoo Finance changed their API, so if you want to use it I'll go ahead and fix the app. Do not use the default stocks in the app. 
 
 And of course, always feel free to post questions to the projects discussion board.  
+
+### Black Scholes Valuation
+
+In this project you'll value a stock option by the Black-Scholes model (which is for a European Option).  The Black-Scholes model is on page 729 of your text.
+
+<!--- I removed the link to the blackboard video because it has student names.  see if world can view the videos and if so make a new one -->
+
+Let me know if the link works for you.  If it does not, I have also uploaded the video as an attachment (the the 'Black_Scholes_Project' file).  Your browser may recognize it and start streaming the file---this works on my system with chromium.  However it also may try and download the entire 200+ MB file.  So if the link doesn't work, and your browser is attempting to download the whole file, let me know and I'll do a separate recording for this course.
+
+You can follow the directions in this video, with the exception that you will not work in groups---you'll do the assignment individually.  Also, be sure to pick a different stock than me.  You can choose any stock you wish.
