@@ -270,7 +270,7 @@ cat(tabl)
 - Week 3:  Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
 - Week 4: Chapter 5 Some useful *optional* videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
 -  Week 5: Chapter 6
-  + March 12: **Recommended <font color="red">Due Date</font> for the Market Depth Project**
+  + March 5: **Recommended <font color="red">Due Date</font> for the Market Depth Project**
 -  Week 6:  Chapter 7
   + **Start MV Optimal Portfolio Project** You can follow the example in the text.  Also optionally [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
 -  Week 7: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
@@ -278,13 +278,13 @@ cat(tabl)
 - Week 8: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
 - Week 9: Chapter 20
 - Week 10: Chapter 21
-  + April 16: **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project**
+  + April 9: **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project**
   + **Start Option Pricing (Black-Scholes) Project**
 - Week 11: Chapter 22
 - Week 12: Chapter 23
 - Week 13: Projects/Trade
 - Week 14: Projects/Trade
- + May 7 **<font color="red">All assignments/exams/projects due.</font>.**
+ + April 29 **<font color="red">All assignments/exams/projects due.</font>.**
 <!-- - 4/27: Last discussion -->
 
 <!-- Spring -->
