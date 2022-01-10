@@ -1,11 +1,11 @@
 ---
 title:
 date: "January 15, 2021"
-## output: 
-##    rmdformats::html_clean:
-##      highlight: kate
-output: pdf_document
-always_allow_html: true
+output: 
+   rmdformats::html_clean:
+     highlight: kate
+## output: pdf_document
+## always_allow_html: true
 ---
 
 ```{r knitr_init, echo=FALSE, cache=FALSE}
