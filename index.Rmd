@@ -1,11 +1,11 @@
 ---
 title:
 date: "January 15, 2022"
-output: 
-   rmdformats::html_clean:
-     highlight: kate
-## output: pdf_document
-## always_allow_html: true
+## output: 
+##    rmdformats::html_clean:
+##      highlight: kate
+output: pdf_document
+always_allow_html: true
 ---
 
 ```{r knitr_init, echo=FALSE, cache=FALSE}
@@ -396,3 +396,11 @@ In this project you'll value a stock option by the Black-Scholes model (which is
 Let me know if the link works for you.  If it does not, I have also uploaded the video as an attachment (the the 'Black_Scholes_Project' file).  Your browser may recognize it and start streaming the file---this works on my system with chromium.  However it also may try and download the entire 200+ MB file.  So if the link doesn't work, and your browser is attempting to download the whole file, let me know and I'll do a separate recording for this course.
 
 You can follow the directions in this video, with the exception that you will not work in groups---you'll do the assignment individually.  Also, be sure to pick a different stock than me.  You can choose any stock you wish.
+
+## Accommodations for Students with Disabilities:
+
+In compliance with the Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act, SUNY Polytechnic Institute is committed to ensuring comprehensive educational access and accommodations for all registered students seeking access to meet course requirements and fully participate in programs and activities.  Students with documented disabilities or medical conditions are encouraged to request these services by registering with the Office of Disability Services. Please request accommodations early in the semester, or as soon as you become registered with Disability Services, so that we have adequate time to arrange your approved academic accommodation/s.  Once Disability Services creates your accommodation plan, it is your responsibility to provide me a copy of the accommodation plan.
+
+If you experience any access concerns that may require the need for adaptive or alternate format/presentation of materials, reach out to me or Disability Services right away. 
+
+For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below.  The Office of Disability Services can accommodate virtual meeting requests.  The website has helpful information, and the link can be found here: https://sunypoly.edu/student-life/diversity-equity-inclusion/disabilities-services/contact-us.html
