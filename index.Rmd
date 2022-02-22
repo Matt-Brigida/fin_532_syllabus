@@ -173,7 +173,13 @@ Throughout the semester we'll work on a series of projects that will help us und
 
 -  Each project will require computations either in a spreadsheet, or programming language.  Use whichever you wish, though if you write it in a programming language (such as R or Python) you'll have to share the code so I can reproduce your results.
 
+### Questions on Projects
+
 If you have questions on a project you are encouraged to post your spreadsheet/code to the relevant discussion board so I and other students can help.  You learn a great deal by helping others, and by seeing how others approach the problem.  Also don't worry too much about others copying you.  It is fairly easy to tell when one spreadsheet has been copied from another.  Moreover, since you posted yours, it would be clear that you were the one copied off of.
+
+Note, please ask **specific questions**.  Often students will post their spreadsheet for me to "review".  I'll find errors and the student will fix them and then post it again for review.  I'll find more errors, and so forth.  What this means is I am doing your work for you, and moreover it encourages shoddy work---why worry about errors when I will catch them?
+
+So I will answer any specific questions, but will not provide general reviews until you submit your spreadsheet for a grade.
 
 ### Required Projects
 
