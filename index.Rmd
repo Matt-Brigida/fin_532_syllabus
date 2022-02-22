@@ -116,7 +116,9 @@ In addition to the lectures I posted to YouTube, I will also record lectures via
 
 ## Exams
 
-There will be two exams (a midterm and a final). The exams will mainly be comprised of short-answer questions, and/or computations.  All questions will be worth equal points.  Exam questions may be derived from the assigned end-of-chapter questions, so you can prepare for the exam by completing all of the end-of-chapter questions.  Specifically, the discussion (*Concept Questions*) are similar to the short answer questions, and the *Optimal Homework* is similar to the computations.
+There will be two exams (a midterm and a final). The exams will mainly be comprised of short-answer questions, and/or computations.  All questions will be worth equal points.  Exam questions may be derived from the assigned end-of-chapter questions, so you can prepare for the exam by completing all of the end-of-chapter questions.  
+
+<!-- Specifically, the discussion (*Concept Questions*) are similar to the short answer questions, and the *Optimal Homework* is similar to the computations. -->
 
 <!---While you are allowed to use your text during the exam, you should not rely on it.  Students perform considerably better if they know the material beforehand, and only need to consult the text for a few questions.
 
@@ -383,7 +385,15 @@ Here is a video on constructing your spreadsheet: https://www.youtube.com/watch?
 
 This contains code to automatically pull stock returns (but it is a work in progress): https://matt-brigida.github.io/fin_532_markowitz/
 
-Also, using the link above requires that you run the code from within R.  If you don't not want to install R, I have a web app here (https://mattbrigida.shinyapps.io/chapter3/) which will pull the data for you.  Though the app is broken at this point because Yahoo Finance changed their API, so if you want to use it I'll go ahead and fix the app. Do not use the default stocks in the app. 
+Also, using the link above requires that you run the code from within R.  If you don't not want to install R, I have a web app here (https://mattbrigida.shinyapps.io/chapter3/) which will pull the data for you.  Though the app is broken at this point because Yahoo Finance changed their API, so if you want to use it I'll go ahead and fix the app. 
+
+**An important note on using the app**
+
+The app is provided as a convenience to you.  However you are supposed to create **your own** portfolio.  This means:
+
+1.  Do not use the default stocks in the app.  You must choose your own stocks, and you are graded on whether they are good choices.
+2.  You are investing for the future, so make sure you bring in appropriate historical data with which to estimate your parameters.
+3.  The app brings in 5 stocks at a time.  This is no way means your portfolio should only contain 5 stocks---5 is too few.
 
 And of course, always feel free to post questions to the projects discussion board.  
 
