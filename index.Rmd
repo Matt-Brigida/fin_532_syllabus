@@ -152,14 +152,7 @@ You are not to discuss the exam with other students.  Both receiving help from a
 
 ## Brokerage Accounts
 
-We will use paper trading accounts provided by Interactive Brokers. These
-trading accounts are the exact same as the actual brokerage accounts---except the money isn’t real.
-You will have access to (and real data from) stock, bond, commodity, and foreign exchange markets.
-While the data alone is worth a fair amount of money, Interactive Brokers is offering the accounts to us
-for free. Keep this in mind while following the directions to set up your account customer service will
-be nonexistent. **If you lose your password, or forget your username, etc, you will not have an
-account for the semester.** In this case you will have to trade in another student’s account, or mine.
-Please pay attention while setting up your account, and write everything down.
+We will use paper trading accounts provided by Interactive Brokers. These trading accounts are the exact same as the actual brokerage accounts---except the money isn’t real. You will have access to (and real data from) stock, bond, commodity, and foreign exchange markets. While the data alone is worth a fair amount of money, Interactive Brokers is offering the accounts to us for free. Keep this in mind while following the directions to set up your account.  Customer service will be nonexistent. **If you lose your password, or forget your username, etc, you will not have an account for the semester.** In this case you will have to trade in another student’s account, or mine. Please pay attention while setting up your account, and write everything down.
 
 ## Projects
 
