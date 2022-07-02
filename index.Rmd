@@ -1,11 +1,11 @@
 ---
 title:
 date: "June 1, 2022"
-## output: 
-##    rmdformats::html_clean:
-##      highlight: kate
-output: pdf_document
-always_allow_html: true
+output: 
+   rmdformats::html_clean:
+     highlight: kate
+## output: pdf_document
+## always_allow_html: true
 ---
 
 ```{r knitr_init, echo=FALSE, cache=FALSE}
@@ -386,7 +386,7 @@ This contains code to automatically pull stock returns (but it is a work in prog
 
 Also, using the link above requires that you run the code from within R.  If you don't not want to install R, I have a web app here (https://brigida.shinyapps.io/port_theory_chap_3/) which will pull the data for you.  Though the app is broken at this point because Yahoo Finance changed their API, so if you want to use it I'll go ahead and fix the app. 
 
-<!---Old url: https://mattbrigida.shinyapps.io/chapter3/-->
+<!---Old url: note this account is still active and only need credentials to update app at this url!!! Need to update app to fix.  https://mattbrigida.shinyapps.io/chapter3/-->
 
 **An important note on using the app**
 
