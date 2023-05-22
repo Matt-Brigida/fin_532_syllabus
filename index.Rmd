@@ -1,11 +1,11 @@
 ---
 title:
-date: "June 1, 2022"
-output: 
-   rmdformats::html_clean:
-     highlight: kate
-## output: pdf_document
-## always_allow_html: true
+date: "June 1, 2023"
+## output: 
+##    rmdformats::html_clean:
+##      highlight: kate
+output: pdf_document
+always_allow_html: true
 ---
 
 ```{r knitr_init, echo=FALSE, cache=FALSE}
@@ -286,7 +286,7 @@ cat(tabl)
 - Week 12: Chapter 23
 - Week 13: Projects/Trade
 - Week 14: Projects/Trade
- + July 22 **<font color="red">All assignments/exams/projects due.</font>.**
+ + July 23 **<font color="red">All assignments/exams/projects due.</font>.**
 <!-- - 4/27: Last discussion -->
 
 <!-- Spring -->
