@@ -266,6 +266,8 @@ cat(tabl)
 
 ## Tentative Outline
 
+Pay attention to the recommended due dates for the projects. The 'weeks' are general guides to the topics we cover in the course, and don't have any relevance for when work is due.  For the summer semester you can divide the week by 2.
+
 <!--- Generic -->
 - Week 1: Chapter 1
 - Week 2:  Chapter 2 \& 3
