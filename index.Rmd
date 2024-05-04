@@ -1,6 +1,6 @@
 ---
 title:
-date: "June 1, 2023"
+date: "`r Sys.Date()`"
 output: 
    rmdformats::html_clean:
      highlight: kate
@@ -42,7 +42,7 @@ opts_knit$set(width=75)
 
 **Email**:  matthew.brigida@sunypoly.edu
 
-**Class Location**:  Online (Blackboard)
+**Class Location**:  Online (D2L)
 
 **Text**: [*Investments* by Bodie, Kane, and Marcus, 8th edition (or later), ISBN: 0077261453](http://www.amazon.com/Investments-8th-Edition-Zvi-Bodie/dp/0077261453/ref=sr_1_5?ie=UTF8&qid=1407685749&sr=8-5&keywords=investment+bodie+kane+marcus)
 
@@ -56,9 +56,9 @@ opts_knit$set(width=75)
 
 -  Text Readings and Exercises
 
-<!-- -  Short videos many of which are/will be posted at the following links: [Investments](https://www.youtube.com/playlist?list=PLRK1VeglPb4NO-D0HOn0QE9lQlBNR1vHK) and [Portfolio Theory](https://www.youtube.com/playlist?list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6). -->
+-  Short videos many of which are/will be posted to D2l and at the following links: [Investments](https://www.youtube.com/playlist?list=PLRK1VeglPb4NO-D0HOn0QE9lQlBNR1vHK) and [Portfolio Theory](https://www.youtube.com/playlist?list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6).
 
--  Via BlackBoard Collaborate.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.
+<!-- -  Via D2L Collaborate.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate. -->
 
 ## Description
 
@@ -86,12 +86,7 @@ markets wherein derivatives are traded, and how laws governing these markets may
 governing the stock markets. A basic introduction to valuing futures on storable commodities,
 currencies, and interest rates will be afforded. We will then briefly discuss futures on non­storable commodities (particularly electricity). Lastly, using Excel students will apply the Black­Scholes (1973) option pricing model to valuing options on non­dividend paying stock. The assumptions of Black­Scholes (1973) will be discusses along with a non­rigorous introduction to risk neutral pricing (intended to motivate further study).
 
-#.  Students will be able to measure the risk and return of individual securities as well as of a portfolio of
-multiple risky securities. The effect of forming a portfolio on risk and expected return will be quantified,
-as well as the resulting implications for forming an efficient portfolio. We will derive the Capital Asset
-Pricing Model (CAPM) and thereby calculate the expected return for individual securities. A short
-discussion of the assumptions of the CAPM and the alternative 'Arbitrage Pricing Theory' (APT) will
-conclude.
+#.  Students will be able to measure the risk and return of individual securities as well as of a portfolio of multiple risky securities. The effect of forming a portfolio on risk and expected return will be quantified, as well as the resulting implications for forming an efficient portfolio. We will derive the Capital AssetPricing Model (CAPM) and thereby calculate the expected return for individual securities. A short discussion of the assumptions of the CAPM and the alternative 'Arbitrage Pricing Theory' (APT) will conclude.
 
 ## Academic Honesty Policy
 
@@ -134,13 +129,13 @@ Normally no make-up exams will be given.  Failure to hand in an exam will result
 
 **Mid-term Exam**
 
-I will post the exam as a pdf file to Blackboard by the Wednesday before the exam due date. You will have until the exam due date/time to submit the mid-term exam.  You will submit your exam using the Dropbox in Blackboard.
+I will post the exam as a pdf file to D2L by at least the Wednesday before the exam due date. You will have until the exam due date/time to submit the mid-term exam.  You will submit your exam using the Dropbox in D2L.
 
 **Final Exam**
 
 The final exam is concentrated on the topics learned after the mid-term exam, so the exam is not comprehensive *per se*.  However, the concepts learned after the mid-term rely heavily those tested in the mid-term, so a poor understanding of the material on the mid-term will lead to a poor performance on the final exam.
 
-Exactly like the mid-term, I will post the exam as a pdf file to Blackboard by the Wednesday before the exam due date. You should upload your completed exam to the Blackboard Dropbox by the due date/time.
+Exactly like the mid-term, I will post the exam as a pdf file to D2L by the Wednesday before the exam due date. You should upload your completed exam to the D2L Dropbox by the due date/time.
 
 **Exam Rules**
 
@@ -225,11 +220,11 @@ A particular period's discussion will conclude Sunday at 9pm.
 
 ## Trading/Other Assignments
 
-I'll assign several homeworks throughout the semester that involve either trading in your brokerage accounts, or downloading data in R and performing some calculation/analyses. If I give pop quizzes, these grades will be included here.
+I may assign several homeworks throughout the semester that involve either trading in your brokerage accounts, or downloading data in Python/R and performing some calculation/analyses. If I give pop quizzes, these grades will be included here.
 
 ## Course Communication
 
-All communication will be through Blackboard and email. If you have question you are strongly encouraged to post it to a discussion forum instead of emailing me.  This way, other students can get the benefit of the question and answer.  It also saves me from answering the same question many times via email, and frees me up to answer more questions and generally provide more effective instruction for you.
+All communication will be through D2L and email. If you have question you are strongly encouraged to post it to a discussion forum instead of emailing me.  This way, other students can get the benefit of the question and answer.  It also saves me from answering the same question many times via email, and frees me up to answer more questions and generally provide more effective instruction for you.
 
 
 ## Grading
@@ -242,7 +237,7 @@ tabl <- "
 | ---- | ------ |
 | Midterm Exam |  15 |
 | Final Exam |  15 |
-| Participation (Blackboard Discussion) |    25 |
+| Participation (D2L Discussion) |    25 |
 | Required Projects | 25  |
 | Trading (or Potential Project)/Other Assignments | 20 |
 | Total Points | 100 |
@@ -404,7 +399,7 @@ And of course, always feel free to post questions to the projects discussion boa
 
 In this project you'll value a stock option by the Black-Scholes model (which is for a European Option).  The Black-Scholes model is on page 729 of your text.
 
-<!--- I removed the link to the blackboard video because it has student names.  see if world can view the videos and if so make a new one -->
+<!--- I removed the link to the D2L video because it has student names.  see if world can view the videos and if so make a new one -->
 
 Let me know if the link works for you.  If it does not, I have also uploaded the video as an attachment (the the 'Black_Scholes_Project' file).  Your browser may recognize it and start streaming the file---this works on my system with chromium.  However it also may try and download the entire 200+ MB file.  So if the link doesn't work, and your browser is attempting to download the whole file, let me know and I'll do a separate recording for this course.
 
