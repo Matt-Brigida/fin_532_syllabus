@@ -147,7 +147,13 @@ You are not to discuss the exam with other students.  Both receiving help from a
 
 ## Brokerage Accounts
 
-We will use paper trading accounts provided by Interactive Brokers. These trading accounts are the exact same as the actual brokerage accounts---except the money isn’t real. You will have access to (and real data from) stock, bond, commodity, and foreign exchange markets. While the data alone is worth a fair amount of money, Interactive Brokers is offering the accounts to us for free. Keep this in mind while following the directions to set up your account.  Customer service will be nonexistent. **If you lose your password, or forget your username, etc, you will not have an account for the semester.** In this case you will have to trade in another student’s account, or mine. Please pay attention while setting up your account, and write everything down.
+For the potential project you may choose to complete the trading assignments.  Note, there are other potential projects, so you do not have to complete any trading assignments.
+
+To make the trades you can use paper trading accounts provided by Interactive Brokers (IB). These trading accounts are the exact same as the actual brokerage accounts---except the money isn’t real. You will have access to (and real data from) stock, bond, commodity, and foreign exchange markets. To use the IB account you have two options:
+
+1.  Use the demo account. This is the easiest option.  Directions are here: https://www.interactivebrokers.com/en/trading/tws-demo-indiv.php 
+
+2.  Request an IB Paper trading account.  You have to fill out a bunch of forms, but this allows you to maintain portfolio positions after closing the Trader Workstation.  If you want a paper tradin account, send me an email and I'll request one for you.  Note, Interactive Brokers is offering the accounts to us for free. Keep this in mind while following the directions to set up your account.  Customer service will be nonexistent. **If you lose your password, or forget your username, etc, you will have to use the demo acount** 
 
 ## Projects
 
