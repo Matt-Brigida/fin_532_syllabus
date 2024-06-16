@@ -49,6 +49,7 @@ opts_knit$set(width=75)
 **Supplementary/Optional Materials**:
 
 -  [Financial Education](https://financial-education.github.io/investments.html)
+-  [YouTube Videos](https://www.youtube.com/c/MattBrigida)  See Investments and Portfolio Theory playlists.
 -  [39 Arbitrages](https://www.amazon.com/39-Arbitrages-Matthew-Brigida-Ph-D-ebook/dp/B08MWYN5D4/ref=sr_1_1?dchild=1&keywords=39+arbitrages&qid=1614011029&sr=8-1&tag=duckduckgo-20)
 
 
