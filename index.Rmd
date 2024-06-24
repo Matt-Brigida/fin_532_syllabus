@@ -388,7 +388,9 @@ Here is a video on constructing your spreadsheet: https://www.youtube.com/watch?
 
 This contains code to automatically pull stock returns (but it is a work in progress): https://matt-brigida.github.io/fin_532_markowitz/
 
-Also, using the link above requires that you run the code from within R.  If you don't not want to install R, I have a web app here (https://brigida.shinyapps.io/port_theory_chap_3/) which will pull the data for you.  Though the app is broken at this point because Yahoo Finance changed their API, so if you want to use it I'll go ahead and fix the app. 
+Also, using the link above requires that you run the code from within R.  If you don't not want to install R, I have a web app here (https://brigida.shinyapps.io/port_theory_chap_3/) which will pull the data for you.
+
+<!-- Though the app is broken at this point because Yahoo Finance changed their API, so if you want to use it I'll go ahead and fix the app.  -->
 
 <!---Old url: note this account is still active and only need credentials to update app at this url!!! Need to update app to fix.  https://mattbrigida.shinyapps.io/chapter3/-->
 
@@ -400,17 +402,30 @@ The app is provided as a convenience to you.  However you are supposed to create
 2.  You are investing for the future, so make sure you bring in appropriate historical data with which to estimate your parameters.
 3.  The app brings in 5 stocks at a time.  This is no way means your portfolio should only contain 5 stocks---5 is too few.
 
-And of course, always feel free to post questions to the projects discussion board.  
+And of course, always feel free to post questions to the projects discussion board.
 
 ### Black Scholes Valuation
 
 In this project you'll value a stock option by the Black-Scholes model (which is for a European Option).  The Black-Scholes model is on page 729 of your text.
 
+The project has 4 required components, and each should be on a separate tab of a spreadsheet workbook.  You first need to choose a stock.  You should choose a stock which ticker symbols starts with the same letter as your last name.  For example, my last name is Brigida so I might choose Boeing stock (ticker: BA).  Once you have your stock, you'll have to pull historical daily stock prices (you get can these from Yahoo Finance or other similar site).
+
+Also, choose an option strike price and maturity for which there are traded options. You can see traded options on Yahoo Finance. 
+
+Components:
+
+1.  Using the input values for your particular stock and option maturity date, calculate the value of a European Call option on the stock.  To do this you can follow the example on page 729 of your text. Note, the volatility of the stock comes from component 2 immediately below.   Once you have the call option value, then calculate the put option value by put-call parity.
+2. Calculate the stock historical volatility.  To do so you'll have to convert prices into log returns with $r_t = ln(\frac{p_t}{p_{t-1}})$ where $r_t$ is the return at time (day) $t$, $ln$ is teh natural logarithm, and $p$ denotes price. Once you have returns, you can calculate the daily standard deviation.  You will likely want to use annualized values in your option valuation, so annualize the daily historical standard deviation with $\sigma_a = \sigma_d \sqrt{252}$, where $\sigma$ denotes standard deviation and $a$ and $d$ denote annual and daily respectively.  This annualized standard deviation is the (historical) volatility input in your option valuation in component1.
+3.  The call option value you calculate will likely be different from the market value of the call option.  Observe the market value and use Excel's solver to calculate the volatility value which makes your call option value equal to the market value.  This volatility value is called *Implied Volatility*.
+4. Calculate the call option value using Monte Carlo.  [See this video on how to calculate the Monte Carlo value of the call option](https://www.youtube.com/watch?v=vLCXAKzaW5A)
+
 <!--- I removed the link to the D2L video because it has student names.  see if world can view the videos and if so make a new one -->
 
+<!---
 Let me know if the link works for you.  If it does not, I have also uploaded the video as an attachment (the the 'Black_Scholes_Project' file).  Your browser may recognize it and start streaming the file---this works on my system with chromium.  However it also may try and download the entire 200+ MB file.  So if the link doesn't work, and your browser is attempting to download the whole file, let me know and I'll do a separate recording for this course.
 
 You can follow the directions in this video, with the exception that you will not work in groups---you'll do the assignment individually.  Also, be sure to pick a different stock than me.  You can choose any stock you wish.
+-->
 
 ## Accommodations for Students with Disabilities:
 
