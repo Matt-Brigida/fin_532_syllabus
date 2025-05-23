@@ -44,7 +44,7 @@ opts_knit$set(width=75)
 
 **Class Location**:  Online (D2L)
 
-**Text**: [*Investments* by Bodie, Kane, and Marcus, 8th edition (or later), ISBN: 0077261453](http://www.amazon.com/Investments-8th-Edition-Zvi-Bodie/dp/0077261453/ref=sr_1_5?ie=UTF8&qid=1407685749&sr=8-5&keywords=investment+bodie+kane+marcus)
+**Text**: [*Investments* by Bodie, Kane, and Marcus, 8th edition (or later), ISBN: 0077261453](http://www.amazon.com/Investments-8th-Edition-Zvi-Bodie/dp/0077261453/ref=sr_1_5?ie=UTF8&qid=1407685749&sr=8-5&keywords=investment+bodie+kane+marcus)  You may use other version of the text, however be sure to note the version you are using in the participation posts.
 
 **Supplementary/Optional Materials**:
 
@@ -58,6 +58,8 @@ opts_knit$set(width=75)
 -  Text Readings and Exercises
 
 -  Short videos many of which are/will be posted to D2l and at the following links: [Investments](https://www.youtube.com/playlist?list=PLRK1VeglPb4NO-D0HOn0QE9lQlBNR1vHK) and [Portfolio Theory](https://www.youtube.com/playlist?list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6).
+
+-  I will post office hours on request. Usually I will try and find a time that works for the most number of students.  However, since this an asynchronous course with no set meeting time, my times for office hours may not match your schedule.  In this case we will not meet.  Note, also I do not schedule one-on-one meetings---there is not enough time in the week.  The bottom line is that you signed up for an asynchronous course, the **definition of which is we do not meet**.  If you think you *must* meet to complete this course, you should take it in a synchronous modality. 
 
 <!-- -  Via D2L Collaborate.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate. -->
 
@@ -176,13 +178,13 @@ Note, please ask **specific questions**.  Often students will post their spreads
 
 So I will answer any specific questions, but will not provide general reviews until you submit your spreadsheet for a grade.
 
-### Required Projects
+### Required Projects (complete all)
 
 - [Market Depth](https://matt-brigida.github.io/fin_532_market_depth/)
 - [Mean-Variance Optimal Portfolios](#mean-variance-optimal-portfolios)
 - [Black-Scholes Option Valuation](#black-scholes-valuation)
 
-### Potential Projects
+### Potential Projects (choose one)
 
 - [Futures from Options](https://matt-brigida.github.io/fin_532_futures_from_options/)
 - [Immunization](https://matt-brigida.github.io/fin_532_immunization/)
@@ -207,7 +209,7 @@ So I will answer any specific questions, but will not provide general reviews un
 
 For each two-week period I will post a set of *End-of-Chapter Questions* from the text.  You must choose 1 of the questions from the set and post your answer to the discussion board.  Try and choose a question that has not yet been answered, but if all the questions have been answered then try and add unique information in your answer.
 
-The subject line of your discussion post should be the in the format [chapter].[question number].  For example, if you are answering question 5 from chapter 3, your subject line should be '3.5'.  Also, be sure to have one post for each answer. Don't answer multiple questions in one post.
+The subject line of your discussion post should be the in the format [chapter].[question number].  For example, if you are answering question 5 from chapter 3, your subject line should be '3.5'.  Also, be sure to have one post for each answer. Don't answer multiple questions in one post.  If you have a different version of the text, then also include the version number of the text in the subject of your post.
 
 If the questions requires computation, then use Excel (or other spreadsheet) and post your spreadsheet as your answer.
 
@@ -227,7 +229,7 @@ A particular period's discussion will conclude Sunday at 9pm.
 
 ## Trading/Other Assignments
 
-I may assign several homeworks throughout the semester that involve either trading in your brokerage accounts, or downloading data in Python/R and performing some calculation/analyses. If I give pop quizzes, these grades will be included here.
+I may assign several homework assignments throughout the semester that involve either trading in your brokerage accounts, or downloading data in Python/R and performing some calculation/analyses. If I give pop quizzes, these grades will be included here.
 
 ## Course Communication
 
@@ -276,7 +278,7 @@ Pay attention to the recommended due dates for the projects. The 'weeks' are gen
 - Week 3:  Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
 - Week 4: Chapter 5 Some useful *optional* videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
 -  Week 5: Chapter 6
-  + June 17: **Recommended <font color="red">Due Date</font> for the Market Depth Project**
+  + June 15: **Recommended <font color="red">Due Date</font> for the Market Depth Project**
 -  Week 6:  Chapter 7
   + **Start MV Optimal Portfolio Project** You can follow the example in the text.  Also optionally [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
 -  Week 7: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
@@ -284,7 +286,7 @@ Pay attention to the recommended due dates for the projects. The 'weeks' are gen
 - Week 8: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
 - Week 9: Chapter 20
 - Week 10: Chapter 21
-  + July 4: **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project**
+  + July 6: **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project**
   + **Start Option Pricing (Black-Scholes) Project**
 - Week 11: Chapter 22
 - Week 12: Chapter 23
