@@ -247,8 +247,8 @@ tabl <- "
 | Midterm Exam |  15 |
 | Final Exam |  15 |
 | Participation (D2L Discussion) |    25 |
-| Required Projects | 25  |
-| Trading (or Potential Project)/Other Assignments | 20 |
+| Required Projects | 35  |
+| Trading (or Potential Project)/Other Assignments | 10 |
 | Total Points | 100 |
 "
 cat(tabl)
