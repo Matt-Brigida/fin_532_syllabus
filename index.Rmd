@@ -178,11 +178,17 @@ Note, please ask **specific questions**.  Often students will post their spreads
 
 So I will answer any specific questions, but will not provide general reviews until you submit your spreadsheet for a grade.
 
-### Required Projects (complete all)
+### Required Projects
+
+**Complete both of the following:**
 
 - [Market Depth](https://matt-brigida.github.io/fin_532_market_depth/)
 - [Mean-Variance Optimal Portfolios](#mean-variance-optimal-portfolios)
+
+**Complete one of the following:**
+
 - [Black-Scholes Option Valuation](#black-scholes-valuation)
+- [Currency Markets and Multinational Hedging](#currency-markets-and-multinational-hedging)
 
 ### Potential Projects (choose one)
 
@@ -287,7 +293,7 @@ Pay attention to the recommended due dates for the projects. The 'weeks' are gen
 - Week 9: Chapter 20
 - Week 10: Chapter 21
   + July 6: **<font color="red">Due Date</font> for the MV Optimal Portfolio Project**
-  + **Start Option Pricing (Black-Scholes) Project**
+  + **Start your chosen project: [Black-Scholes Option Valuation](#black-scholes-valuation) or [Currency Markets and Multinational Hedging](#currency-markets-and-multinational-hedging)**
 - Week 11: Chapter 22
 - Week 12: Chapter 23
 - Week 13: Projects/Trade
@@ -412,7 +418,7 @@ In this project you'll value a stock option by the Black-Scholes model (which is
 
 The project has 4 required components, and each should be on a separate tab of a spreadsheet workbook.  You first need to choose a stock.  You should choose a stock which ticker symbols starts with the same letter as your last name.  For example, my last name is Brigida so I might choose Boeing stock (ticker: BA).  Once you have your stock, you'll have to pull historical daily stock prices (you get can these from Yahoo Finance or other similar site).
 
-Also, choose an option strike price and maturity for which there are traded options. You can see traded options on Yahoo Finance. 
+Also, choose an option strike price and maturity for which there are traded options. You can see traded options on Yahoo Finance.
 
 Components:
 
@@ -428,6 +434,26 @@ Let me know if the link works for you.  If it does not, I have also uploaded the
 
 You can follow the directions in this video, with the exception that you will not work in groups---you'll do the assignment individually.  Also, be sure to pick a different stock than me.  You can choose any stock you wish.
 -->
+
+### Currency Markets and Multinational Hedging
+
+In this project you will explore how multinational corporations use currency markets to manage interest rate and exchange rate risk. The project develops intuition for Interest Rate Parity (IRP) and gives you hands-on experience with the hedging instruments that treasury departments use in practice.
+
+The project has 4 components, each on a separate tab of a spreadsheet workbook.  You will choose a pair of currencies to work with throughout---for example USD/EUR, USD/JPY, or USD/GBP.  Current spot rates and interest rate data are available from sources such as the Federal Reserve H.10 release, the ECB, and the Bank of England.
+
+**Components:**
+
+1. **Interest Rate Parity.** Using the current spot exchange rate and short-term interest rates for both countries (e.g., 3-month T-bill rates or LIBOR equivalents), calculate the theoretical 3-month forward exchange rate implied by Covered Interest Rate Parity (CIP):
+
+$$F = S \times \frac{1 + r_d}{1 + r_f}$$
+
+where $S$ is the spot rate (domestic per foreign), $r_d$ is the domestic interest rate, and $r_f$ is the foreign interest rate.  Compare your theoretical forward rate to the actual quoted forward rate.  Explain any discrepancy---are the markets approximately in parity?
+
+2. **Hedging a Foreign Currency Receivable.** Suppose a U.S. multinational expects to receive a fixed payment in a foreign currency in 3 months (you choose the amount and currency).  Show two hedging strategies: (a) a forward contract hedge using the forward rate from Component 1, and (b) a money-market hedge in which the firm borrows in the foreign currency today, converts to USD at the spot rate, and invests domestically.  Demonstrate that both strategies produce the same certain USD amount (confirming CIP in practice).
+
+3. **Impact of Interest Rate Changes on Hedging Costs.** Using your spreadsheet, perform a sensitivity analysis showing how the cost of the forward hedge changes as the domestic interest rate shifts by $\pm 100$, $\pm 200$, and $\pm 300$ basis points (holding the foreign rate and spot rate fixed).  Interpret the results: how does a central bank rate hike in the home country affect a multinational's hedging costs?
+
+4. **Cross-Currency Swap Illustration.** A multinational has issued fixed-rate domestic debt but earns revenues in a foreign currency.  Construct a simple two-period cross-currency swap in which the firm pays fixed in the foreign currency and receives fixed in the domestic currency, using the IRP-implied exchange rate to set the swap terms.  Show the net cash flows in both currencies for each period and explain how this swap eliminates both exchange rate and interest rate exposure.
 
 ## Accommodations for Students with Disabilities:
 
